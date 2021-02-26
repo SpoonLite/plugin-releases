@@ -1,1 +1,1 @@
-# plugin-releases
+# SpoonLite Plugins
