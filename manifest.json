@@ -4,7 +4,7 @@
 			"name": "AntiDrag.jar",
 			"plugins": ["net.runelite.client.plugins.keydrag.KeyDragPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/AntiDrag.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/AntiDrag.jar",
 			"hash": "adddc8f0e3ba36d34a5b9611590607b2511c01cb7c37715a9bad4ad438853a61",
 			"description": ""
 		},
@@ -12,7 +12,7 @@
 			"name": "Bingo.jar",
 			"plugins": ["net.runelite.client.plugins.bingo.BingoPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/Bingo.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/Bingo.jar",
 			"hash": "e27fb516d5b252cfae4535d27a926a8477ac596a14da2e5e8be54cc4cadacd4c",
 			"description": "Steroids made this- not me. Bingo code overlay."
 		},
@@ -20,7 +20,7 @@
 			"name": "CoxAdditions.jar",
 			"plugins": ["net.runelite.client.plugins.coxadditions.CoxAdditionsPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/CoxAdditions.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/CoxAdditions.jar",
 			"hash": "660e2222834b5e0ed944746256c5545f1e1372879a9af20a6e0ddf08b509e61b",
 			"description": "Additional plugins for the Chambers of Xeric"
 		},
@@ -28,7 +28,7 @@
 			"name": "CoxFloorSplits.jar",
 			"plugins": ["net.runelite.client.plugins.coxfloorsplits.CoxFloorSplitsPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/CoxFloorSplits.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/CoxFloorSplits.jar",
 			"hash": "577a6839bfdff9922d2c372665b9496ebc9e5ce8bd369e3a030229f00ea25dc3",
 			"description": ""
 		},
@@ -36,7 +36,7 @@
 			"name": "CoxPrep.jar",
 			"plugins": ["net.runelite.client.plugins.coxprep.CoxPrepPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/CoxPrep.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/CoxPrep.jar",
 			"hash": "bbaa8285705127f3265299b6a59a1202326ebea27cb64e31614189e06244fcd5",
 			"description": "Track prep shit woo yay"
 		},
@@ -44,7 +44,7 @@
 			"name": "GwdTimers.jar",
 			"plugins": ["net.runelite.client.plugins.gwdtimers.GwdTimersPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/GwdTimers.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/GwdTimers.jar",
 			"hash": "fde7ae139e6fad17d6cf8410881943cf08ccab9ad98a2229f9b9b18bfd9c56c6",
 			"description": "Tick timers for bosses"
 		},
@@ -52,7 +52,7 @@
 			"name": "HydraAdditions.jar",
 			"plugins": ["net.runelite.client.plugins.hydraadditions.HydraAdditionsPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/HydraAdditions.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/HydraAdditions.jar",
 			"hash": "a18d407e4f0525a1a3f1fc8c006ef2a842be5b5efd47e5a3308cbcb17ea53ee4",
 			"description": "Extra plugins for the Alchemical Hydra."
 		},
@@ -60,7 +60,7 @@
 			"name": "MultiLines.jar",
 			"plugins": ["net.runelite.client.plugins.multiindicators.MultiIndicatorsPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/MultiLines.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/MultiLines.jar",
 			"hash": "56dbfc11ca1f36d883b1b298dbcb092d762597696bb3216ac7b9715f87362bdb",
 			"description": "Show borders of multicombat and PvP safezones"
 		},
@@ -68,7 +68,7 @@
 			"name": "NeverLogout.jar",
 			"plugins": ["net.runelite.client.plugins.neverlog.NeverLog"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/NeverLogout.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/NeverLogout.jar",
 			"hash": "ee2b0a0d05e24bac22b6cad60f4b047b226b116271347910ee09b6e4c2f14f84",
 			"description": "Enable this and you will never log out"
 		},
@@ -76,7 +76,7 @@
 			"name": "sNightmare.jar",
 			"plugins": ["net.runelite.client.plugins.snightmare.SpNightmarePlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/sNightmare.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/sNightmare.jar",
 			"hash": "da9a325d791a4c8d2f0db61b87d87588ca943c308445b02c9bcceec360721901",
 			"description": "Nightmare Plugin"
 		},
@@ -84,7 +84,7 @@
 			"name": "sBarrows.jar",
 			"plugins": ["net.runelite.client.plugins.spoonbarrows.sBarrowsPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/sBarrows.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/sBarrows.jar",
 			"hash": "c92c8c52dcdb56a592d505c0b38e9dfcf971120124dc0fe528f9c98947fa5d37",
 			"description": "Show helpful information for the Barrows minigame"
 		},
@@ -92,7 +92,7 @@
 			"name": "sBoosts.jar",
 			"plugins": ["net.runelite.client.plugins.spoonboosts.sBoostsPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/sBoosts.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/sBoosts.jar",
 			"hash": "45ec5c2331b76d52c0ef1628931dccb21de89bea90584b08cf71110ca8a150c1",
 			"description": "Show combat and/or skill boost information"
 		},
@@ -100,7 +100,7 @@
 			"name": "sCox.jar",
 			"plugins": ["net.runelite.client.plugins.cox.CoxPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/sCox.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/sCox.jar",
 			"hash": "ad2873d272cc78365235e08f2db6b67a490a7c19246511d5cd0c006763d18a94",
 			"description": "Show helpful information for the Chambers of Xeric raid"
 		},
@@ -108,7 +108,7 @@
 			"name": "Sdemonicgorillas.jar",
 			"plugins": ["net.runelite.client.plugins.spoondemonicgorilla.DemonicGorillaPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/Sdemonicgorillas.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/Sdemonicgorillas.jar",
 			"hash": "89a135ade281612bb1835836c6a064eb0f09e17f66417d33a9dbe4b6d11e7397",
 			"description": "Count demonic gorilla attacks and display their next possible attack styles"
 		},
@@ -116,7 +116,7 @@
 			"name": "sGroundMarkers.jar",
 			"plugins": ["net.runelite.client.plugins.spoongroundmarkers.sGroundMarkerPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/sGroundMarkers.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/sGroundMarkers.jar",
 			"hash": "36fec0570545aadd8b0174b1fabec900dfd01291cc87633ccb34db14938c0120",
 			"description": "Enable marking of tiles using the Shift key"
 		},
@@ -124,7 +124,7 @@
 			"name": "sObjectMarkers.jar",
 			"plugins": ["net.runelite.client.plugins.spoonobjectindicators.sObjectIndicatorsPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/sObjectMarkers.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/sObjectMarkers.jar",
 			"hash": "944934a7d1e9816f28244bd2f8c03907fa4dc07f34af88186066f3bdf7a08a16",
 			"description": "Enable marking of objects using the Shift key"
 		},
@@ -132,7 +132,7 @@
 			"name": "sNpcHighlight.jar",
 			"plugins": ["net.runelite.client.plugins.npchighlights.NpcIndicatorsPlugins"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/sNpcHighlight.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/sNpcHighlight.jar",
 			"hash": "0f8fceb529c629d84b57d63b8a8f6e676c1baaebc08857b5b1f806e08fa0eaaa",
 			"description": "Highlight NPCs on-screen and/or on the minimap"
 		},
@@ -140,7 +140,7 @@
 			"name": "sSlayer.jar",
 			"plugins": ["net.runelite.client.plugins.spoonslayer.SpSlayerPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/sSlayer.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/sSlayer.jar",
 			"hash": "1aee346fddac0d669527ed837d1798186cc70ed98a4fa5649139c91480ae5210",
 			"description": "Show additional slayer task related information"
 		},
@@ -148,7 +148,7 @@
 			"name": "SocketDefence.jar",
 			"plugins": ["net.runelite.client.plugins.socketdefence.SocketDefencePlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/SocketDefence.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/SocketDefence.jar",
 			"hash": "f30f84f3850c5edd026104c66a9ea52c41be6e8033ecbe649bfaf7120de2ad68",
 			"description": "Shows defence level for different bosses after specs"
 		},
@@ -156,7 +156,7 @@
 			"name": "SocketThieving.jar",
 			"plugins": ["net.runelite.client.plugins.socketthieving.SocketThievingPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/SocketThieving.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/SocketThieving.jar",
 			"hash": "d9f094e6fcb69f95c5314e396e4279bb75f8b82f5cd03b21ea5bf5fde08ab35f",
 			"description": "De0's thieving plugin with the option of Socket! Works without socket too."
 		},
@@ -164,7 +164,7 @@
 			"name": "sOpponentInformation.jar",
 			"plugins": ["net.runelite.client.plugins.sopponentinfo.sOpponentInfoPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/sOpponentInformation.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/sOpponentInformation.jar",
 			"hash": "5e11a6895465fcd1528ad660a796b23c8dcd10bfef2e787dacf210407b8792f9",
 			"description": "Show name and hitpoints information about the NPC you are fighting"
 		},
@@ -172,7 +172,7 @@
 			"name": "SpawnTimer.jar",
 			"plugins": ["net.runelite.client.plugins.spawntimer.SpawnTimerPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/SpawnTimer.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/SpawnTimer.jar",
 			"hash": "807ff2a4397f3006dc70ee89500ee1ab4c3ef74099e29ff6448272d3c9fad685",
 			"description": "Shows NPC'S time since spawned"
 		},
@@ -180,7 +180,7 @@
 			"name": "sSoulWars.jar",
 			"plugins": ["net.runelite.client.plugins.soulwars.SoulWarsPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/sSoulWars.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/sSoulWars.jar",
 			"hash": "37d494908b9aba2b066f8439a5533e2645a124d66197625e8419b649d22915c7",
 			"description": "Removes cast on teammates in Soul Wars"
 		},
@@ -188,7 +188,7 @@
 			"name": "sRunecraft.jar",
 			"plugins": ["net.runelite.client.plugins.spoonrunecraft.sRunecraftPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/sRunecraft.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/sRunecraft.jar",
 			"hash": "b71cf637f5aebccc03402016180b3bb1de56e644bce8edb26d1ee01c592e876f",
 			"description": "Show minimap icons and clickboxes for abyssal rifts"
 		},
@@ -196,7 +196,7 @@
 			"name": "sTileIndicators.jar",
 			"plugins": ["net.runelite.client.plugins.spoontileindicators.sTileIndicatorsPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/sTileIndicators.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/sTileIndicators.jar",
 			"hash": "5d24fc1ddb592fba85ff00d461b3c0dcdbb2f79d66749f0df0c0638aa5ad9b2e",
 			"description": "Highlight the tile you are currently moving to"
 		},
@@ -204,7 +204,7 @@
 			"name": "sTobSounds.jar",
 			"plugins": ["net.runelite.client.plugins.windowsbloat.TobSoundsPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/sTobSounds.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/sTobSounds.jar",
 			"hash": "d05ed344a2586aa7e821579e5df7b795c8cdbd82ffffa11b2ae16dda2a11b590",
 			"description": ""
 		},
@@ -212,7 +212,7 @@
 			"name": "sVm.jar",
 			"plugins": ["net.runelite.client.plugins.volcanicmine.sVmPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/sVm.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/sVm.jar",
 			"hash": "7be1a5f2ba1c169d419d53496b9cfc72ddc083488d29e901f98dc2b901f6e222",
 			"description": "Useful plugins for Volcanic Mine."
 		},
@@ -220,7 +220,7 @@
 			"name": "zalcanoS.jar",
 			"plugins": ["net.runelite.client.plugins.spoonzalcano.sZalcanoPlugin"],
 			"version": "1.01",
-			"path": "https://github.com/spoonlite/plugin-releases/raw/main/releases/zalcanoS.jar",
+			"path": "https://github.com/spoonlite/plugin-releases/raw/main/zalcanoS.jar",
 			"hash": "f6fa0fc7c57b870c14b1a8201e785744aada084bb3519aa7a3a5d64ad3ac5947",
 			"description": "All-in-one plugin for the Zalcano."
 		},
