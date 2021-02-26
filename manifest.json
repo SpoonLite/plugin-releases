@@ -40,7 +40,7 @@
 			"hash": "bbaa8285705127f3265299b6a59a1202326ebea27cb64e31614189e06244fcd5",
 			"description": "Track prep shit woo yay"
 		},
-		{RENAME
+		{
 			"name": "GwdTimers.jar",
 			"plugins": ["net.runelite.client.plugins.gwdtimers.GwdTimersPlugin"],
 			"version": "1.01",
@@ -72,7 +72,7 @@
 			"hash": "ee2b0a0d05e24bac22b6cad60f4b047b226b116271347910ee09b6e4c2f14f84",
 			"description": "Enable this and you will never log out"
 		},
-		{RENAME
+		{
 			"name": "sNightmare.jar",
 			"plugins": ["net.runelite.client.plugins.snightmare.SpNightmarePlugin"],
 			"version": "1.01",
@@ -184,7 +184,7 @@
 			"hash": "37d494908b9aba2b066f8439a5533e2645a124d66197625e8419b649d22915c7",
 			"description": "Removes cast on teammates in Soul Wars"
 		},
-		{RENAME
+		{
 			"name": "sRunecraft.jar",
 			"plugins": ["net.runelite.client.plugins.spoonrunecraft.sRunecraftPlugin"],
 			"version": "1.01",
@@ -192,7 +192,7 @@
 			"hash": "b71cf637f5aebccc03402016180b3bb1de56e644bce8edb26d1ee01c592e876f",
 			"description": "Show minimap icons and clickboxes for abyssal rifts"
 		},
-		{RENAME
+		{
 			"name": "sTileIndicators.jar",
 			"plugins": ["net.runelite.client.plugins.spoontileindicators.sTileIndicatorsPlugin"],
 			"version": "1.01",
