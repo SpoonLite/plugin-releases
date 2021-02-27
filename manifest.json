@@ -147,9 +147,9 @@
 		{
 			"name": "SocketDefence.jar",
 			"plugins": ["net.runelite.client.plugins.socketdefence.SocketDefencePlugin"],
-			"version": "1.01",
+			"version": "1.02",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketDefence.jar",
-			"hash": "f30f84f3850c5edd026104c66a9ea52c41be6e8033ecbe649bfaf7120de2ad68",
+			"hash": "c9bd660f11d6221926579957908aa46402317af270beece90e32aa6eb5ba5680",
 			"description": "Shows defence level for different bosses after specs"
 		},
 		{
