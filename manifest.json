@@ -4,7 +4,7 @@
             "name": "AntiDrag.jar",
             "plugins": ["net.runelite.client.plugins.keydrag.KeyDragPlugin"],
             "version": "1.01",
-            "path": "https://github.com/spoonlite/plugin-releases/raw/main/AntiDrag.jar",
+            "path": "https://github.com/SpoonLite/plugin-releases/blob/main/AntiDrag.jar?raw=true",
             "hash": "adddc8f0e3ba36d34a5b9611590607b2511c01cb7c37715a9bad4ad438853a61",
             "description": ""
         }
