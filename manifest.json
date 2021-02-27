@@ -223,6 +223,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/zalcanoS.jar",
 			"hash": "f6fa0fc7c57b870c14b1a8201e785744aada084bb3519aa7a3a5d64ad3ac5947",
 			"description": "All-in-one plugin for the Zalcano."
+		},
+		{
+			"name": "SpoonEzScape.jar",
+			"plugins": ["net.runelite.client.plugins.spoonezscape.item", "net.runelite.client.plugins.spoonezscape.pvm", "net.runelite.client.plugins.spoonezscape.skilling"],
+			"version": "1.01",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonEzScape.jar",
+			"hash": "5cc6be90161461325100a6f7bb9b7fcaf3cbae44a6abe9df601b6cdd6188e715",
+			"description": "."
 		}
 	]
 }
