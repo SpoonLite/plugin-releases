@@ -225,10 +225,10 @@
 			"description": "All-in-one plugin for the Zalcano."
 		},
 		{
-			"name": "SpoonEzScape.jar",
+			"name": "SpoonEZScape.jar",
 			"plugins": ["net.runelite.client.plugins.spoonezscape.item", "net.runelite.client.plugins.spoonezscape.pvm", "net.runelite.client.plugins.spoonezscape.skilling"],
 			"version": "1.01",
-			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonEzScape.jar",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonEZScape.jar",
 			"hash": "5cc6be90161461325100a6f7bb9b7fcaf3cbae44a6abe9df601b6cdd6188e715",
 			"description": "."
 		}
