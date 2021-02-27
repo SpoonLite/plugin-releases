@@ -231,7 +231,7 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonEZScape.jar",
 			"hash": "5cc6be90161461325100a6f7bb9b7fcaf3cbae44a6abe9df601b6cdd6188e715",
 			"description": "Work you god damn piece of shite."
-		}
+		},
 		{
 			"name": "sSocket.jar",
 			"plugins": ["net.runelite.client.plugins.socket.SocketPlugin", "net.runelite.client.plugins.socket.plugins.playerstatus.PlayerStatusPlugin", "net.runelite.client.plugins.socket.plugins.socketdps.SocketDpsCounterPlugin", "net.runelite.client.plugins.socket.plugins.sotetseg.SotetsegPlugin", "net.runelite.client.plugins.socket.plugins.specialcounterextended.SpecialCounterExtendedPlugin"],
