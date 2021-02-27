@@ -6,7 +6,7 @@
 			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/AntiDrag.jar",
 			"hash": "adddc8f0e3ba36d34a5b9611590607b2511c01cb7c37715a9bad4ad438853a61",
-			"description": "Antidrag with toggle key"
+			"description": "Keybind anti drag"
 		},
 		{
 			"name": "Bingo.jar",
@@ -30,7 +30,7 @@
 			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/CoxFloorSplits.jar",
 			"hash": "577a6839bfdff9922d2c372665b9496ebc9e5ce8bd369e3a030229f00ea25dc3",
-			"description": ""
+			"description": "Detailed floor splits for Cox"
 		},
 		{
 			"name": "CoxPrep.jar",
@@ -46,7 +46,7 @@
 			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/GwdTimers.jar",
 			"hash": "fde7ae139e6fad17d6cf8410881943cf08ccab9ad98a2229f9b9b18bfd9c56c6",
-			"description": "Tick timers for bosses"
+			"description": "Tick timers for Godwars bosses"
 		},
 		{
 			"name": "HydraAdditions.jar",
@@ -78,7 +78,7 @@
 			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sNightmare.jar",
 			"hash": "da9a325d791a4c8d2f0db61b87d87588ca943c308445b02c9bcceec360721901",
-			"description": "Nightmare Plugin"
+			"description": "Nightmare of Ashihama helper"
 		},
 		{
 			"name": "sBarrows.jar",
@@ -86,7 +86,7 @@
 			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sBarrows.jar",
 			"hash": "c92c8c52dcdb56a592d505c0b38e9dfcf971120124dc0fe528f9c98947fa5d37",
-			"description": "Show helpful information for the Barrows minigame"
+			"description": "Shows map when you are in the tunnels"
 		},
 		{
 			"name": "sBoosts.jar",
@@ -94,7 +94,7 @@
 			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sBoosts.jar",
 			"hash": "45ec5c2331b76d52c0ef1628931dccb21de89bea90584b08cf71110ca8a150c1",
-			"description": "Show combat and/or skill boost information"
+			"description": "OPRS Boosts Information"
 		},
 		{
 			"name": "sCox.jar",
@@ -142,7 +142,7 @@
 			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sSlayer.jar",
 			"hash": "1aee346fddac0d669527ed837d1798186cc70ed98a4fa5649139c91480ae5210",
-			"description": "Show additional slayer task related information"
+			"description": "RuneLite Slayer with different highlight styles"
 		},
 		{
 			"name": "SocketDefence.jar",
@@ -206,7 +206,7 @@
 			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sTobSounds.jar",
 			"hash": "d05ed344a2586aa7e821579e5df7b795c8cdbd82ffffa11b2ae16dda2a11b590",
-			"description": ""
+			"description": "Check SpoonLite discord for instructions"
 		},
 		{
 			"name": "sVm.jar",
