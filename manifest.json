@@ -7,6 +7,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/AntiDrag.jar",
 			"hash": "adddc8f0e3ba36d34a5b9611590607b2511c01cb7c37715a9bad4ad438853a61",
 			"description": ""
+		},
+		{
+			"name": "Bingo.jar",
+			"plugins": ["net.runelite.client.plugins.bingo.BingoPlugin"],
+			"version": "1.01",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/Bingo.jar",
+			"hash": "e27fb516d5b252cfae4535d27a926a8477ac596a14da2e5e8be54cc4cadacd4c",
+			"description": "Steroids made this- not me. Bingo code overlay."
 		}
 	]
 }
