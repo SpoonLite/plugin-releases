@@ -115,7 +115,7 @@
 		{
 			"name": "sGroundMarkers.jar",
 			"plugins": ["net.runelite.client.plugins.spoongroundmarkers.sGroundMarkerPlugin"],
-			"version": "1.01",
+			"version": "1.02",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sGroundMarkers.jar",
 			"hash": "374fd40d9e6961d4b54dd3a6fabc395426ee643e3f9cbb72ce1917a6a0b419bb",
 			"description": "Enable marking of tiles using the Shift key"
