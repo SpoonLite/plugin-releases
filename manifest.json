@@ -227,9 +227,9 @@
 		{
 			"name": "SpoonEZScape.jar",
 			"plugins": ["net.runelite.client.plugins.spoonezscape.item.EzItemPlugin", "net.runelite.client.plugins.spoonezscape.pvm.EzPvmPlugin", "net.runelite.client.plugins.spoonezscape.skilling.EzSkillingPlugin"],
-			"version": "1.01",
+			"version": "1.02",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonEZScape.jar",
-			"hash": "5cc6be90161461325100a6f7bb9b7fcaf3cbae44a6abe9df601b6cdd6188e715",
+			"hash": "4a673fdfb2d37d22e306fbd50296c300a4f563a1bf206fd4bd0eeb383d5b2c22",
 			"description": "Work you god damn piece of shite."
 		}
 	]
