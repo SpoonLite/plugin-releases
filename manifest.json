@@ -85,7 +85,7 @@
 			"plugins": ["net.runelite.client.plugins.spoonbarrows.sBarrowsPlugin"],
 			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sBarrows.jar",
-			"hash": "c92c8c52dcdb56a592d505c0b38e9dfcf971120124dc0fe528f9c98947fa5d37",
+			"hash": "6c9f7252957fb162d8529626779d9d163d3ab18fc0e3f500c2af4c9dd7736b54",
 			"description": "Shows map when you are in the tunnels"
 		},
 		{
