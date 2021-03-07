@@ -19,9 +19,9 @@
 		{
 			"name": "CoxAdditions.jar",
 			"plugins": ["net.runelite.client.plugins.coxadditions.CoxAdditionsPlugin"],
-			"version": "1.02",
+			"version": "1.03",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/CoxAdditions.jar",
-			"hash": "7ffa875b8551f25dc8d658940730b8f1978212c574bc948617e6271d24c4f157",
+			"hash": "ed869ed25d00da8bcfb5b5f946b7155fa6fd7471e411ec034b7ea813cdd25d92",
 			"description": "Additional plugins for the Chambers of Xeric"
 		},
 		{
@@ -115,9 +115,9 @@
 		{
 			"name": "sGroundMarkers.jar",
 			"plugins": ["net.runelite.client.plugins.spoongroundmarkers.sGroundMarkerPlugin"],
-			"version": "1.03",
+			"version": "1.04",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sGroundMarkers.jar",
-			"hash": "4dd2e09384a33a11a6dfb4fa34b2f34608e91278d47378ca4698c3d19b2c5d3f",
+			"hash": "2e2fe71b3b8b5fb47bb1fd23d45f50a727eaf99035ff4785aca7ed423677e362",
 			"description": "Enable marking of tiles using the Shift key"
 		},
 		{
@@ -147,9 +147,9 @@
 		{
 			"name": "SocketDefence.jar",
 			"plugins": ["net.runelite.client.plugins.socketdefence.SocketDefencePlugin"],
-			"version": "1.03",
+			"version": "1.04",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketDefence.jar",
-			"hash": "86a83856f7c3b7123f71f863e3065339cf485068de4c16984572c2311cd92c86",
+			"hash": "9d70d0337d718ef68a8972b7db5ae4634d004c4ec2e3f27ab27a8881d03c1460",
 			"description": "Shows defence level for different bosses after specs"
 		},
 		{
@@ -227,9 +227,9 @@
 		{
 			"name": "SpoonEZScape.jar",
 			"plugins": ["net.runelite.client.plugins.spoonezscape.item.EzItemPlugin", "net.runelite.client.plugins.spoonezscape.pvm.EzPvmPlugin", "net.runelite.client.plugins.spoonezscape.skilling.EzSkillingPlugin"],
-			"version": "1.02",
+			"version": "1.03",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonEZScape.jar",
-			"hash": "4a673fdfb2d37d22e306fbd50296c300a4f563a1bf206fd4bd0eeb383d5b2c22",
+			"hash": "b34daaebcf0d1f65fcbd52a590de9b1749c078174cda70ee87267df3c27aa24d",
 			"description": "Work you god damn piece of shite."
 		}
 	]
