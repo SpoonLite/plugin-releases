@@ -19,9 +19,9 @@
 		{
 			"name": "CoxAdditions.jar",
 			"plugins": ["net.runelite.client.plugins.coxadditions.CoxAdditionsPlugin"],
-			"version": "1.03",
+			"version": "1.04",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/CoxAdditions.jar",
-			"hash": "ed869ed25d00da8bcfb5b5f946b7155fa6fd7471e411ec034b7ea813cdd25d92",
+			"hash": "db9502766a1633db62bc3ecdb9e3699cbc713c7eb6b13ef5f7748c6117e1f3fa",
 			"description": "Additional plugins for the Chambers of Xeric"
 		},
 		{
@@ -227,9 +227,9 @@
 		{
 			"name": "SpoonEZScape.jar",
 			"plugins": ["net.runelite.client.plugins.spoonezscape.item.EzItemPlugin", "net.runelite.client.plugins.spoonezscape.pvm.EzPvmPlugin", "net.runelite.client.plugins.spoonezscape.skilling.EzSkillingPlugin"],
-			"version": "1.03",
+			"version": "1.04",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonEZScape.jar",
-			"hash": "b34daaebcf0d1f65fcbd52a590de9b1749c078174cda70ee87267df3c27aa24d",
+			"hash": "c482897fc142acd381cd40d2a850234410dd5d819405c53ba38d6b3260ece98d",
 			"description": "Work you god damn piece of shite."
 		}
 	]
