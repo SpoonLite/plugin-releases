@@ -232,5 +232,21 @@
 			"hash": "bcdb21ab702306142d5273b322574f8315a5cb01f9e3f00e9eddc9b94d0f9d0f",
 			"description": "Work you god damn piece of shite."
 		}
+		{
+			"name": "sHopTimer.jar",
+			"plugins": ["net.runelite.client.plugins.hoptimer.HopTimerPlugin"],
+			"version": "1.01",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sHopTimer.jar",
+			"hash": "b8d606007fa70daa800f2e2711fa8634a01a79cd1787322203322279a7ed0eca",
+			"description": "Displays how long before you can hop worlds after combat."
+		},
+		{
+			"name": "CoxSpoonTimers.jar",
+			"plugins": ["net.runelite.client.plugins.coxspoontimers.CoxSpoonTimersPlugin"],
+			"version": "1.01",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/CoxSpoonTimers.jar",
+			"hash": "1445288cf94165f82c1f980f947321162563916f235d410a48d86badae22c20d",
+			"description": "De0's Cox Timers with an overlay to show current room/phase time."
+		},
 	]
 }
