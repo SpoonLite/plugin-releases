@@ -235,7 +235,7 @@
 		{
 			"name": "sHopTimer.jar",
 			"plugins": ["net.runelite.client.plugins.hoptimer.HopTimerPlugin"],
-			"version": "1.01",
+			"version": "1.02",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sHopTimer.jar",
 			"hash": "f022fbdeb3e1e80e03e905c94a2178d5ac20d7dd0fdd24fafcae54665880c629",
 			"description": "Displays how long before you can hop worlds after combat."
