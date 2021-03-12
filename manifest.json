@@ -227,10 +227,10 @@
 		{
 			"name": "SpoonEZScape.jar",
 			"plugins": ["net.runelite.client.plugins.spoonezscape.item.EzItemPlugin", "net.runelite.client.plugins.spoonezscape.pvm.EzPvmPlugin", "net.runelite.client.plugins.spoonezscape.skilling.EzSkillingPlugin"],
-			"version": "1.04",
+			"version": "1.05",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonEZScape.jar",
-			"hash": "bcdb21ab702306142d5273b322574f8315a5cb01f9e3f00e9eddc9b94d0f9d0f",
-			"description": "Work you god damn piece of shite."
+			"hash": "88ff684623baaa188efa4e4a04b5b99df35039056423b5f3f394ed07b6079bbe",
+			"description": "Ez pvm, skilling, and swap plugin"
 		},
 		{
 			"name": "sHopTimer.jar",
