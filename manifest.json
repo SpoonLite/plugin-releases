@@ -247,6 +247,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/CoxSpoonTimers.jar",
 			"hash": "1445288cf94165f82c1f980f947321162563916f235d410a48d86badae22c20d",
 			"description": "De0's Cox Timers with an overlay to show current room/phase time."
+		},
+		{
+			"name": "SpoonSkybox.jar",
+			"plugins": ["net.runelite.client.plugins.spoonskybox.SpoonSkyboxPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonSkybox.jar",
+			"hash": "56327ee9bb90f847d72edf42cf4536f711663b671c0714f831a3ca33cf146402",
+			"description": "Skybox (now with rave mode)"
 		}
 	]
 }
