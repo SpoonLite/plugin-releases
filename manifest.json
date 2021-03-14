@@ -255,6 +255,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonSkybox.jar",
 			"hash": "56327ee9bb90f847d72edf42cf4536f711663b671c0714f831a3ca33cf146402",
 			"description": "Skybox (now with rave mode)"
+		},
+		{
+			"name": "SocketHealing.jar",
+			"plugins": ["net.runelite.client.plugins.sockethealing.SocketHealingPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketHealing.jar",
+			"hash": "8d2db12158d4bb416d176edc7dd3661f7b2a3b8b0463ebbd57e5e8347c26fc11",
+			"description": "Shows the hp of other players in socket"
 		}
 	]
 }
