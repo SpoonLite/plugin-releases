@@ -263,6 +263,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketHealing.jar",
 			"hash": "8d2db12158d4bb416d176edc7dd3661f7b2a3b8b0463ebbd57e5e8347c26fc11",
 			"description": "Shows the hp of other players in socket"
+		},
+		{
+			"name": "CorpAdditions.jar",
+			"plugins": ["net.runelite.client.plugins.corpboost.CorpBoostPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/CorpAdditions.jar",
+			"hash": "376a1a1da1be8213d6c50e3e3172a785f7764e2a01df0f874bcb74f8078ce836",
+			"description": "Dark core stunning MES and boosting plugins"
 		}
 	]
 }
