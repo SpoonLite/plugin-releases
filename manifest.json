@@ -245,7 +245,7 @@
 			"plugins": ["net.runelite.client.plugins.coxspoontimers.CoxSpoonTimersPlugin"],
 			"version": "1.03",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/CoxSpoonTimers.jar",
-			"hash": "678c5dcd293808babc8241d840e5e7d6edfb3ed84b66617f88677607c09d7acd",
+			"hash": "910e341aa8e0f00f006130d7f4aa6aa61204268b68f1867fcf9205b654f3ee68",
 			"description": "De0's Cox Timers with an overlay to show current room/phase time."
 		},
 		{
