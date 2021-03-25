@@ -271,6 +271,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/CorpAdditions.jar",
 			"hash": "376a1a1da1be8213d6c50e3e3172a785f7764e2a01df0f874bcb74f8078ce836",
 			"description": "Dark core stunning MES and boosting plugins"
+		},
+		{
+			"name": "SpoonTempoross.jar",
+			"plugins": ["net.runelite.client.plugins.corpboost.TemporossPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonTempoross.jar",
+			"hash": "4b1ed8c1072f4b1f1c03aebbabe92c9953642589d63e00db551ab190fa78ba88",
+			"description": "All in one Tempoross plugins"
 		}
 	]
 }
