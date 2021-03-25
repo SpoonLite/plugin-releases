@@ -274,7 +274,7 @@
 		},
 		{
 			"name": "SpoonTempoross.jar",
-			"plugins": ["net.runelite.client.plugins.corpboost.TemporossPlugin"],
+			"plugins": ["net.runelite.client.plugins.spoontempoross.TemporossPlugin"],
 			"version": "1.00",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonTempoross.jar",
 			"hash": "4b1ed8c1072f4b1f1c03aebbabe92c9953642589d63e00db551ab190fa78ba88",
