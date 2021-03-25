@@ -131,9 +131,9 @@
 		{
 			"name": "sNpcHighlight.jar",
 			"plugins": ["net.runelite.client.plugins.npchighlights.NpcIndicatorsPlugins"],
-			"version": "1.01",
+			"version": "1.02",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sNpcHighlight.jar",
-			"hash": "0f8fceb529c629d84b57d63b8a8f6e676c1baaebc08857b5b1f806e08fa0eaaa",
+			"hash": "3b2c565a5d54d4c24b34e8a188f1ff56409a1a32be61711be04924b1fe143003",
 			"description": "Highlight NPCs on-screen and/or on the minimap"
 		},
 		{
