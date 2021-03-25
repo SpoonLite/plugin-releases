@@ -275,9 +275,9 @@
 		{
 			"name": "SpoonTempoross.jar",
 			"plugins": ["net.runelite.client.plugins.spoontempoross.SpoonTemporossPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonTempoross.jar",
-			"hash": "b3c59899d074221409c23233692368f92b2be770b10070b055db2a4931476216",
+			"hash": "d8becbe2239d36de0a66b2ccfaea0b5881e934210afadc6e9d28dd4b57f5585a",
 			"description": "All in one Tempoross plugins"
 		}
 	]
