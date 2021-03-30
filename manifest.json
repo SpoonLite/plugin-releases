@@ -279,14 +279,6 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonTempoross.jar",
 			"hash": "d8becbe2239d36de0a66b2ccfaea0b5881e934210afadc6e9d28dd4b57f5585a",
 			"description": "All in one Tempoross plugins"
-		},
-		{
-			"name": "sSocket.jar",
-			"plugins": ["net.runelite.client.plugins.socket.SocketPlugin","net.runelite.client.plugins.socket.plugins.sotetseg.SotetsegPlugin","net.runelite.client.plugins.socket.plugins.worldhopper.WorldHopperPlugin","net.runelite.client.plugins.socket.plugins.specialcounterextended.SpecialCounterExtendedPlugin","net.runelite.client.plugins.socket.plugins.socketDPS.SocketDpsCounterPlugin","net.runelite.client.plugins.socket.plugins.playerstatus.PlayerStatusPlugin"],
-			"version": "1.2",
-			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sSocket.jar",
-			"hash": "35fffef9fbc79eda9d5fe876eb5b86deb2d708b018262614800349cd322b4e20",
-			"description": "SpoonLite socket plugins"
 		}
 	]
 }
