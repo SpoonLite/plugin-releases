@@ -279,6 +279,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonTempoross.jar",
 			"hash": "d8becbe2239d36de0a66b2ccfaea0b5881e934210afadc6e9d28dd4b57f5585a",
 			"description": "All in one Tempoross plugins"
+		},
+		{
+			"name": "PhoenixNecklace.jar",
+			"plugins": ["net.runelite.client.plugins.phoenixnecklace.PhoenixNecklacePlugin"],
+			"version": "1.01",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/PhoenixNecklace.jar",
+			"hash": "5f89d10f6bd8eaeaea46a7578d000c8a5ee9a8876b15d1c78b5b5a655a129a4f",
+			"description": "Lets you know when a pneck is equipped or not"
 		}
 	]
 }
