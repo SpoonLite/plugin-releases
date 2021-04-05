@@ -251,9 +251,9 @@
 		{
 			"name": "SpoonSkybox.jar",
 			"plugins": ["net.runelite.client.plugins.spoonskybox.SpoonSkyboxPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonSkybox.jar",
-			"hash": "56327ee9bb90f847d72edf42cf4536f711663b671c0714f831a3ca33cf146402",
+			"hash": "6eb7a929597e3a2b421b2d11a5f8f44dae76a05a4f8b020b2e99f08bf48f3a69",
 			"description": "Skybox (now with rave mode)"
 		},
 		{
