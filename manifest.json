@@ -295,6 +295,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketIceDemon.jar",
 			"hash": "aa19a56a8309c2974f7a9f9138eb370ca6103806f26b687b3a63a0f44ae218ca",
 			"description": "Shows kindling cut/lit, total needed, and other highlights."
+		},
+		{
+			"name": "SocketPlanks.jar",
+			"plugins": ["net.runelite.client.plugins.socketplanks.SocketPlanksPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketPlanks.jar",
+			"hash": "b3101679aa3ee79328cfbd7ee3417b403210822bd5d11c3c8a16c2bab0cca82a",
+			"description": "Highlights tile where first planks were dropped, includes chest built split timer."
 		}
 	]
 }
