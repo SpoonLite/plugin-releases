@@ -287,6 +287,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/PhoenixNecklace.jar",
 			"hash": "5f89d10f6bd8eaeaea46a7578d000c8a5ee9a8876b15d1c78b5b5a655a129a4f",
 			"description": "Lets you know when a pneck is equipped or not"
+		},
+		{
+			"name": "SocketIceDemon.jar",
+			"plugins": ["net.runelite.client.plugins.socketicedemon.SocketIceDemonPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketIceDemon.jar",
+			"hash": "aa19a56a8309c2974f7a9f9138eb370ca6103806f26b687b3a63a0f44ae218ca",
+			"description": "Shows kindling cut/lit, total needed, and other highlights."
 		}
 	]
 }
