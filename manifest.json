@@ -307,9 +307,9 @@
 		{
 			"name": "PvpPlayerIndicators.jar",
 			"plugins": ["net.runelite.client.plugins.pvpplayerindicators.PvPPlayerIndicatorsPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/PvpPlayerIndicators.jar",
-			"hash": "608198dbd7814e0da9210ed6a1dadaa43d567d43c38cdb0a13e6076ea5425021",
+			"hash": "7a72017c7f57096f0b739f86fae1f6a9faf5b98321d358588dde56fe8761d659",
 			"description": "Player indicators with pvp options and more highlights"
 		}
 	]
