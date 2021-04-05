@@ -303,6 +303,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketPlanks.jar",
 			"hash": "b3101679aa3ee79328cfbd7ee3417b403210822bd5d11c3c8a16c2bab0cca82a",
 			"description": "Highlights tile where first planks were dropped, includes chest built split timer."
+		},
+		{
+			"name": "PvpPlayerIndicators.jar",
+			"plugins": ["net.runelite.client.plugins.pvpplayerindicators.PvPPlayerIndicatorsPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/PvpPlayerIndicators.jar",
+			"hash": "608198dbd7814e0da9210ed6a1dadaa43d567d43c38cdb0a13e6076ea5425021",
+			"description": "Player indicators with pvp options and more highlights"
 		}
 	]
 }
