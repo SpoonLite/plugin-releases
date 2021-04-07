@@ -325,7 +325,7 @@
 			"plugins": ["net.runelite.client.plugins.discoinferno.DiscoInfernoPlugin"],
 			"version": "1.00",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/DiscoInferno.jar",
-			"hash": "b2c3cd97b273d690e648de6a48e13d56502fa2f335bd49806c36f061dfc2f97a",
+			"hash": "84f97686042345ace0dfeb7edf306f0b5dcb4c97ad7e5ce2972ea89b0f35863b",
 			"description": "Burn baby burn!"
 		}
 	]
