@@ -311,6 +311,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/PvpPlayerIndicators.jar",
 			"hash": "7a72017c7f57096f0b739f86fae1f6a9faf5b98321d358588dde56fe8761d659",
 			"description": "Player indicators with pvp options and more highlights"
+		},
+		{
+			"name": "sScreenshot.jar",
+			"plugins": ["net.runelite.client.plugins.raidscreenshot.RaidScreenshotPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sScreenshot.jar",
+			"hash": "105a9c746043c875c1de3af91877a03c13a27c8f46c3aad998f98a30f7001bbe",
+			"description": "Added the option to not take death pics at vangs"
 		}
 	]
 }
