@@ -319,6 +319,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sScreenshot.jar",
 			"hash": "105a9c746043c875c1de3af91877a03c13a27c8f46c3aad998f98a30f7001bbe",
 			"description": "Added the option to not take death pics at vangs"
+		},
+		{
+			"name": "DiscoInferno.jar",
+			"plugins": ["net.runelite.client.plugins.discoinferno.DiscoInfernoPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/DiscoInferno.jar",
+			"hash": "b2c3cd97b273d690e648de6a48e13d56502fa2f335bd49806c36f061dfc2f97a",
+			"description": "Burn baby burn!"
 		}
 	]
 }
