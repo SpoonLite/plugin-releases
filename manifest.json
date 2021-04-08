@@ -299,9 +299,9 @@
 		{
 			"name": "SocketPlanks.jar",
 			"plugins": ["net.runelite.client.plugins.socketplanks.SocketPlanksPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketPlanks.jar",
-			"hash": "b3101679aa3ee79328cfbd7ee3417b403210822bd5d11c3c8a16c2bab0cca82a",
+			"hash": "887c77c0fcae2cd8f371178a34f94d623715d2583a8a2883eae2630a83e5265f",
 			"description": "Highlights tile where first planks were dropped, includes chest built split timer."
 		},
 		{
