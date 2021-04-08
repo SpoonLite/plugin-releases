@@ -19,9 +19,9 @@
 		{
 			"name": "CoxAdditions.jar",
 			"plugins": ["net.runelite.client.plugins.coxadditions.CoxAdditionsPlugin"],
-			"version": "1.06",
+			"version": "1.07",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/CoxAdditions.jar",
-			"hash": "a2a1f3e494bfbd2e540b47a4e08bb94c485d98187c73f6165cc03795c587d223",
+			"hash": "0a9cc5ef0f9e7563e3cab4fba989944c7dc11a71f168580c7caf28583b71116a",
 			"description": "Additional plugins for the Chambers of Xeric"
 		},
 		{
