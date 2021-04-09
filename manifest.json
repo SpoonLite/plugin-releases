@@ -187,9 +187,9 @@
 		{
 			"name": "sRunecraft.jar",
 			"plugins": ["net.runelite.client.plugins.spoonrunecraft.sRunecraftPlugin"],
-			"version": "1.01",
+			"version": "1.02",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sRunecraft.jar",
-			"hash": "b71cf637f5aebccc03402016180b3bb1de56e644bce8edb26d1ee01c592e876f",
+			"hash": "5edee4ee09aa4bdccd6be8574f78045b30b6c2a7771cfde3052f9baa6a426925",
 			"description": "Show minimap icons and clickboxes for abyssal rifts"
 		},
 		{
