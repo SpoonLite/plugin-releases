@@ -315,7 +315,7 @@
 		{
 			"name": "sScreenshot.jar",
 			"plugins": ["net.runelite.client.plugins.raidscreenshot.RaidScreenshotPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sScreenshot.jar",
 			"hash": "72b7a1c3d8a3cf11c27226359b51b8ade995a858ce04fac806784c6fbe300b1f",
 			"description": "Added the option to not take death pics at vangs"
