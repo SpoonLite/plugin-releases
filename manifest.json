@@ -21,7 +21,7 @@
 			"plugins": ["net.runelite.client.plugins.coxadditions.CoxAdditionsPlugin"],
 			"version": "1.10",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/CoxAdditions.jar",
-			"hash": "7db4329303b8784f1d874ef804ae1618638c80df32970390421b210524af52c2",
+			"hash": "7756685690137b827324126d16ec17d3f0fbaf8dc6661e3f70a60b25e9b47019",
 			"description": "Additional plugins for the Chambers of Xeric"
 		},
 		{
@@ -227,9 +227,9 @@
 		{
 			"name": "SpoonEZScape.jar",
 			"plugins": ["net.runelite.client.plugins.spoonezscape.item.EzItemPlugin", "net.runelite.client.plugins.spoonezscape.pvm.EzPvmPlugin", "net.runelite.client.plugins.spoonezscape.skilling.EzSkillingPlugin"],
-			"version": "1.07",
+			"version": "1.08",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonEZScape.jar",
-			"hash": "a4613a513a0b1b1e798c35a76124dc82a3d7f0344664ad0313a8b1e841c8519c",
+			"hash": "2231c9dc520fb5151f679a5eb2f4c11da1e3c5bf4271fffdb3e7a257781066c9",
 			"description": "Ez pvm, skilling, and swap plugin"
 		},
 		{
