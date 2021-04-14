@@ -5,7 +5,7 @@
 			"plugins": ["net.runelite.client.plugins.keydrag.KeyDragPlugin"],
 			"version": "1.02",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/AntiDrag.jar",
-			"hash": "5feaa4b8d4b6ceb522298ff48832a89509694b5615242bb8d341252b9ad184ea",
+			"hash": "033abfdc9052f9d9e53631ff709cb8334d7c928331f013fda1728488c7ba98dd",
 			"description": "Keybind anti drag."
 		},
 		{
@@ -327,6 +327,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/DiscoInferno.jar",
 			"hash": "84f97686042345ace0dfeb7edf306f0b5dcb4c97ad7e5ce2972ea89b0f35863b",
 			"description": "Burn baby burn! (Only works in Inferno)"
+		},
+		{
+			"name": "NmContribution.jar",
+			"plugins": ["net.runelite.client.plugins.nmcontrcounter.NmContrPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/NmContribution.jar",
+			"hash": "97ac36bf39befa717b763ea743d7d3a174fe4b30451b3496eb294ce03f0f0410",
+			"description": "100% stolen from Steroids"
 		}
 	]
 }
