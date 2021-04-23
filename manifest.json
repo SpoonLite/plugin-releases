@@ -339,9 +339,9 @@
 		{
 			"name": "VmSwimShamer.jar",
 			"plugins": ["net.runelite.client.plugins.vmswimshamer.SwimShamerPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/VmSwimShamer.jar",
-			"hash": "79f4c6e243a53d0ee2e6df1b045ca569747b11e3d80b55171fc5d78d8a46a718",
+			"hash": "c58ea6ac63293ea45944c9dac3906bb82875955185712425cfc99e98feaf50d2",
 			"description": "Takes a picture when teammates swim or die in VM"
 		}
 	]
