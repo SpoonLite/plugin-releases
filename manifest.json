@@ -335,6 +335,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/NmContribution.jar",
 			"hash": "97ac36bf39befa717b763ea743d7d3a174fe4b30451b3496eb294ce03f0f0410",
 			"description": "100% stolen from Steroids"
+		},
+		{
+			"name": "VmSwimShamer.jar",
+			"plugins": ["net.runelite.client.plugins.vmswimshamer.SwimShamerPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/VmSwimShamer.jar",
+			"hash": "79f4c6e243a53d0ee2e6df1b045ca569747b11e3d80b55171fc5d78d8a46a718",
+			"description": "Takes a picture when teammates swim or die in VM"
 		}
 	]
 }
