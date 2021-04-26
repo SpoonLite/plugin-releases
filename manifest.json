@@ -283,9 +283,9 @@
 		{
 			"name": "PhoenixNecklace.jar",
 			"plugins": ["net.runelite.client.plugins.phoenixnecklace.PhoenixNecklacePlugin"],
-			"version": "1.01",
+			"version": "1.02",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/PhoenixNecklace.jar",
-			"hash": "5f89d10f6bd8eaeaea46a7578d000c8a5ee9a8876b15d1c78b5b5a655a129a4f",
+			"hash": "245c5ad378f87ba6bdf951c6ee1ac5147b2685bc3878007cceb824cf99de1c19",
 			"description": "Lets you know when a pneck is equipped or not"
 		},
 		{
