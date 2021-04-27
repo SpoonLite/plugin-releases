@@ -59,9 +59,9 @@
 		{
 			"name": "MultiLines.jar",
 			"plugins": ["net.runelite.client.plugins.multiindicators.MultiIndicatorsPlugin"],
-			"version": "1.02",
+			"version": "1.03",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/MultiLines.jar",
-			"hash": "fca720f6e6082ee893c739a0142e334c60d517708217cc7bba1520a980c30eac",
+			"hash": "e04329fda31567be3d1d0a6b8da1008bf3bb7e8788efd6d6f47383a0ff4d04df",
 			"description": "Show borders of multicombat and PvP safezones"
 		},
 		{
