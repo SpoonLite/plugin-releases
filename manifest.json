@@ -227,9 +227,9 @@
 		{
 			"name": "SpoonEZScape.jar",
 			"plugins": ["net.runelite.client.plugins.spoonezscape.item.EzItemPlugin", "net.runelite.client.plugins.spoonezscape.pvm.EzPvmPlugin", "net.runelite.client.plugins.spoonezscape.skilling.EzSkillingPlugin"],
-			"version": "1.09",
+			"version": "1.1",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonEZScape.jar",
-			"hash": "124d8bf2613756c4af87e4b6a1aa9d0afb5366f5e6d8d0ff650220df18127454",
+			"hash": "3e4c34157c1bc689f82b4745cc3de1f1bc08ab59c25bdc69f29748054bd1d877",
 			"description": "Ez pvm, skilling, and swap plugin"
 		},
 		{
@@ -343,6 +343,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/VmSwimShamer.jar",
 			"hash": "c58ea6ac63293ea45944c9dac3906bb82875955185712425cfc99e98feaf50d2",
 			"description": "Takes a picture when teammates swim or die in VM"
+		},
+		{
+			"name": "SocketBossTimers.jar",
+			"plugins": ["net.runelite.client.plugins.socketbosstimer.SocketBossTimersPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketBossTimers.jar",
+			"hash": "8bf703fc89f8c71d4ee2e1702fc1f532ecc0298a55a0ca108faf666dc53bb053",
+			"description": "Multiple world respawn timer that updates via Socket"
 		}
 	]
 }
