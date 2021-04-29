@@ -355,9 +355,9 @@
 		{
 			"name": "SpoonInventoryTags.jar",
 			"plugins": ["net.runelite.client.plugins.spooninventorytags.SpoonInventoryTagsPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonInventoryTags.jar",
-			"hash": "56931eb9efd2be23902e761d56926140ce5d140be384febfb3f1365759a104ea",
+			"hash": "40c53d0be1d836fb28756a946b2badbc7b86bd1ca85d4ba599d0474baf695c9e",
 			"description": "Inventory tags remastest edition"
 		}
 	]
