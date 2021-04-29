@@ -351,6 +351,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketBossTimers.jar",
 			"hash": "8bf703fc89f8c71d4ee2e1702fc1f532ecc0298a55a0ca108faf666dc53bb053",
 			"description": "Multiple world respawn timer that updates via Socket"
+		},
+		{
+			"name": "SpoonInventoryTags.jar",
+			"plugins": ["net.runelite.client.plugins.spooninventorytags.SpoonInventoryTagsPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonInventoryTags.jar",
+			"hash": "adb4a4024f8a923f41566cde95d859a37feebcd27abc07b970298acabf06c953",
+			"description": "Inventory tags remastest"
 		}
 	]
 }
