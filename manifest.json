@@ -259,9 +259,9 @@
 		{
 			"name": "SocketHealing.jar",
 			"plugins": ["net.runelite.client.plugins.sockethealing.SocketHealingPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketHealing.jar",
-			"hash": "8d2db12158d4bb416d176edc7dd3661f7b2a3b8b0463ebbd57e5e8347c26fc11",
+			"hash": "960df16bfe6a5a2d4bd9804c2c405fe3643a80e3668d5b3e73103a8ef8079550",
 			"description": "Shows the hp of other players in socket"
 		},
 		{
