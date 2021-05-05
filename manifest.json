@@ -283,9 +283,9 @@
 		{
 			"name": "PhoenixNecklace.jar",
 			"plugins": ["net.runelite.client.plugins.phoenixnecklace.PhoenixNecklacePlugin"],
-			"version": "1.02",
+			"version": "1.03",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/PhoenixNecklace.jar",
-			"hash": "245c5ad378f87ba6bdf951c6ee1ac5147b2685bc3878007cceb824cf99de1c19",
+			"hash": "1a972286c2ef1ba02da172f149707d2a763777d8433bd68104cf9c125fdb057e",
 			"description": "Lets you know when a pneck is equipped or not"
 		},
 		{
@@ -307,9 +307,9 @@
 		{
 			"name": "PvpPlayerIndicators.jar",
 			"plugins": ["net.runelite.client.plugins.pvpplayerindicators.PvPPlayerIndicatorsPlugin"],
-			"version": "1.01",
+			"version": "1.02",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/PvpPlayerIndicators.jar",
-			"hash": "7a72017c7f57096f0b739f86fae1f6a9faf5b98321d358588dde56fe8761d659",
+			"hash": "d0ddcc4ae2b7bf0ea3248434fe198d2029dd5686eecdc7af0941f5cb1d6ba864",
 			"description": "Player indicators with pvp options and more highlights"
 		},
 		{
