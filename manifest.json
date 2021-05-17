@@ -371,9 +371,9 @@
 		{
 			"name": "sItemCharges.jar",
 			"plugins": ["net.runelite.client.plugins.spoonitemcharges.SpoonItemChargePlugin"],
-			"version": "1.01",
+			"version": "1.00",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sItemCharges.jar",
-			"hash": "2f2ded578b7c3f09d32c548ad5ca04ef686a805f9d82c3ab5387602ba59d14cd",
+			"hash": "c674e512c4f04fab4279107860b111b18b4c37136e028f72ad1ac2afee50aecd",
 			"description": "Can toggle to show rests, divines, and cox pot doses separately"
 		}
 	]
