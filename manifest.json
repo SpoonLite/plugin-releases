@@ -367,6 +367,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketDps.jar",
 			"hash": "f37a987f57667f759d9abbcf4e2f86c017fa4550d0a9f88a0e19d80c120dffc5",
 			"description": "Shows the dps of everyone in socket"
+		},
+		{
+			"name": "sItemCharges.jar",
+			"plugins": ["net.runelite.client.plugins.spoonitemcharges.SpoonItemChargePlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sItemCharges.jar",
+			"hash": "a00d540530ee0a4a88fe47419df0d7a578ca7b16f182439cb84ccd86b2a6a78f",
+			"description": "Can toggle to show rests, divines, and cox pot doses separately"
 		}
 	]
 }
