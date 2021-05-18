@@ -3,9 +3,9 @@
 		{
 			"name": "AntiDrag.jar",
 			"plugins": ["net.runelite.client.plugins.keydrag.KeyDragPlugin"],
-			"version": "1.06",
+			"version": "1.07",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/AntiDrag.jar",
-			"hash": "a42731eae2f5e782a9dc73171ed99a7fe21273bdd8b4a702f2dfb7aeca2f9336",
+			"hash": "68149bed51eadbbbc8e4b2f14d337680da84f2cbde7a1a264ce8023c02e7b759",
 			"description": "Keybind anti drag."
 		},
 		{
@@ -371,9 +371,9 @@
 		{
 			"name": "sItemCharges.jar",
 			"plugins": ["net.runelite.client.plugins.spoonitemcharges.SpoonItemChargePlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sItemCharges.jar",
-			"hash": "40cbbc912b7b74658d35a2124ddfc08c49c81d9fcf9b318a273835f7946d1e8d",
+			"hash": "42ada2ccb395bf8792476cba733cdab887adc0e4127c98b78aef031d392a03e8",
 			"description": "Can toggle to show rests, divines, and cox pot doses separately"
 		}
 	]
