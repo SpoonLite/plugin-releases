@@ -375,6 +375,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sItemCharges.jar",
 			"hash": "42ada2ccb395bf8792476cba733cdab887adc0e4127c98b78aef031d392a03e8",
 			"description": "Can toggle to show rests, divines, and cox pot doses separately"
+		},
+		{
+			"name": "DiscoOnTheGo.jar",
+			"plugins": ["net.runelite.client.plugins.discoonthego.DiscoOnTheGoPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/DiscoOnTheGo.jar",
+			"hash": "2a011131c9f8ef941107e2b294d56e76d620b0a1679662a31bc949b2f572c014",
+			"description": "Its time to get funky....."
 		}
 	]
 }
