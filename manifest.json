@@ -305,14 +305,6 @@
 			"description": "Highlights tile where first planks were dropped, includes chest built split timer."
 		},
 		{
-			"name": "PvpPlayerIndicators.jar",
-			"plugins": ["net.runelite.client.plugins.pvpplayerindicators.PvPPlayerIndicatorsPlugin"],
-			"version": "1.02",
-			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/PvpPlayerIndicators.jar",
-			"hash": "d0ddcc4ae2b7bf0ea3248434fe198d2029dd5686eecdc7af0941f5cb1d6ba864",
-			"description": "Player indicators with pvp options and more highlights"
-		},
-		{
 			"name": "sScreenshot.jar",
 			"plugins": ["net.runelite.client.plugins.raidscreenshot.RaidScreenshotPlugin"],
 			"version": "1.01",
