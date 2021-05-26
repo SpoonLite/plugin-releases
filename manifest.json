@@ -19,9 +19,9 @@
 		{
 			"name": "CoxAdditions.jar",
 			"plugins": ["net.runelite.client.plugins.coxadditions.CoxAdditionsPlugin"],
-			"version": "1.15",
+			"version": "1.16",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/CoxAdditions.jar",
-			"hash": "2c5ac3111708a4c3bfc5474237d164ce37e53f44c84609626827fa479604f31f",
+			"hash": "0871e57ed8f7a2152ec28b9c49ba2fd7835824f47420a65b242a5be7700ad8f7",
 			"description": "Additional plugins for the Chambers of Xeric"
 		},
 		{
@@ -291,9 +291,9 @@
 		{
 			"name": "SocketIceDemon.jar",
 			"plugins": ["net.runelite.client.plugins.socketicedemon.SocketIceDemonPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketIceDemon.jar",
-			"hash": "aa19a56a8309c2974f7a9f9138eb370ca6103806f26b687b3a63a0f44ae218ca",
+			"hash": "185e3008fd6e0eedbc5a8b133d3b1d09db65aa45fa5ea2436f6b399c4e26af2c",
 			"description": "Shows kindling cut/lit, total needed, and other highlights."
 		},
 		{
