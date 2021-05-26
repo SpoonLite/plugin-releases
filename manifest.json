@@ -375,6 +375,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/DiscoOnTheGo.jar",
 			"hash": "2a011131c9f8ef941107e2b294d56e76d620b0a1679662a31bc949b2f572c014",
 			"description": "Its time to get funky....."
-		}
+		},
+		{
+		    "name": "PvpPlayerIndicators.jar",
+		    "plugins": ["net.runelite.client.plugins.pvpplayerindicators.PvPPlayerIndicatorsPlugin"],
+		    "version": "1.03",
+		    "path": "https://github.com/SpoonLite/plugin-releases/raw/main/PvpPlayerIndicators.jar",
+		    "hash": "978fe8aca44577114523e0d8a49a045353867c0e66d839df83b8474bd1b8ec39",
+		    "description": "Player indicators with pvp options and more highlights"
+        	}
 	]
 }
