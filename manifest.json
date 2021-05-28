@@ -377,12 +377,12 @@
 			"description": "Its time to get funky....."
 		},
 		{
-		    "name": "PvpPlayerIndicators.jar",
-		    "plugins": ["net.runelite.client.plugins.pvpplayerindicators.PvPPlayerIndicatorsPlugin"],
-		    "version": "1.03",
-		    "path": "https://github.com/SpoonLite/plugin-releases/raw/main/PvpPlayerIndicators.jar",
-		    "hash": "978fe8aca44577114523e0d8a49a045353867c0e66d839df83b8474bd1b8ec39",
-		    "description": "Player indicators with pvp options and more highlights"
+		    	"name": "PvpPlayerIndicators.jar",
+		    	"plugins": ["net.runelite.client.plugins.pvpplayerindicators.PvPPlayerIndicatorsPlugin"],
+		    	"version": "1.04",
+		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/PvpPlayerIndicators.jar",
+		    	"hash": "c94b13296979249cabe323dd9e8df6448b844a401a8b68e699c7bc4026c14510",
+		    	"description": "Player indicators with pvp options and more highlights"
         	}
 	]
 }
