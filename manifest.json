@@ -145,22 +145,6 @@
 			"description": "RuneLite Slayer with different highlight styles"
 		},
 		{
-			"name": "SocketDefence.jar",
-			"plugins": ["net.runelite.client.plugins.socketdefence.SocketDefencePlugin"],
-			"version": "1.05",
-			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketDefence.jar",
-			"hash": "fccfcc7f17286f9549b64ead8abbb68f7ed7a65e7b98c4658c0a31c82e1544b7",
-			"description": "Shows defence level for different bosses after specs"
-		},
-		{
-			"name": "SocketThieving.jar",
-			"plugins": ["net.runelite.client.plugins.socketthieving.SocketThievingPlugin"],
-			"version": "1.01",
-			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketThieving.jar",
-			"hash": "d9f094e6fcb69f95c5314e396e4279bb75f8b82f5cd03b21ea5bf5fde08ab35f",
-			"description": "De0's thieving plugin with the option of Socket! Works without socket too."
-		},
-		{
 			"name": "sOpponentInformation.jar",
 			"plugins": ["net.runelite.client.plugins.sopponentinfo.sOpponentInfoPlugin"],
 			"version": "1.01",
@@ -257,14 +241,6 @@
 			"description": "Skybox (now with rave mode)"
 		},
 		{
-			"name": "SocketHealing.jar",
-			"plugins": ["net.runelite.client.plugins.sockethealing.SocketHealingPlugin"],
-			"version": "1.01",
-			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketHealing.jar",
-			"hash": "960df16bfe6a5a2d4bd9804c2c405fe3643a80e3668d5b3e73103a8ef8079550",
-			"description": "Shows the hp of other players in socket"
-		},
-		{
 			"name": "CorpAdditions.jar",
 			"plugins": ["net.runelite.client.plugins.corpboost.CorpBoostPlugin"],
 			"version": "1.00",
@@ -287,22 +263,6 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/PhoenixNecklace.jar",
 			"hash": "1a972286c2ef1ba02da172f149707d2a763777d8433bd68104cf9c125fdb057e",
 			"description": "Lets you know when a pneck is equipped or not"
-		},
-		{
-			"name": "SocketIceDemon.jar",
-			"plugins": ["net.runelite.client.plugins.socketicedemon.SocketIceDemonPlugin"],
-			"version": "1.01",
-			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketIceDemon.jar",
-			"hash": "185e3008fd6e0eedbc5a8b133d3b1d09db65aa45fa5ea2436f6b399c4e26af2c",
-			"description": "Shows kindling cut/lit, total needed, and other highlights."
-		},
-		{
-			"name": "SocketPlanks.jar",
-			"plugins": ["net.runelite.client.plugins.socketplanks.SocketPlanksPlugin"],
-			"version": "1.03",
-			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketPlanks.jar",
-			"hash": "7a66377c4d29c04b3f0ba688f7b9c462da20eca2d6848b2ca81e03826dc9809a",
-			"description": "Highlights tile where first planks were dropped, includes chest built split timer."
 		},
 		{
 			"name": "sScreenshot.jar",
@@ -337,28 +297,12 @@
 			"description": "Takes a picture when teammates swim or die in VM"
 		},
 		{
-			"name": "SocketBossTimers.jar",
-			"plugins": ["net.runelite.client.plugins.socketbosstimer.SocketBossTimersPlugin"],
-			"version": "1.00",
-			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketBossTimers.jar",
-			"hash": "8bf703fc89f8c71d4ee2e1702fc1f532ecc0298a55a0ca108faf666dc53bb053",
-			"description": "Multiple world respawn timer that updates via Socket"
-		},
-		{
 			"name": "SpoonInventoryTags.jar",
 			"plugins": ["net.runelite.client.plugins.spooninventorytags.SpoonInventoryTagsPlugin"],
 			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonInventoryTags.jar",
 			"hash": "62f429734a1f35b514dd9988d94cd2e579178ef2d6e9dca14ab72345a5c019a4",
 			"description": "Inventory tags remastest edition"
-		},
-		{
-			"name": "SocketDps.jar",
-			"plugins": ["net.runelite.client.plugins.socketDPS.SocketDpsCounterPlugin"],
-			"version": "1.00",
-			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketDps.jar",
-			"hash": "f37a987f57667f759d9abbcf4e2f86c017fa4550d0a9f88a0e19d80c120dffc5",
-			"description": "Shows the dps of everyone in socket"
 		},
 		{
 			"name": "sItemCharges.jar",
