@@ -179,9 +179,9 @@
 		{
 			"name": "sTileIndicators.jar",
 			"plugins": ["net.runelite.client.plugins.spoontileindicators.sTileIndicatorsPlugin"],
-			"version": "1.01",
+			"version": "1.02",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sTileIndicators.jar",
-			"hash": "5d24fc1ddb592fba85ff00d461b3c0dcdbb2f79d66749f0df0c0638aa5ad9b2e",
+			"hash": "cc7462a4ca8a9f1a3b92c1fa1715ef61f9a53fdea0f8e4de3fce13d3d007cdb7",
 			"description": "Highlight the tile you are currently moving to"
 		},
 		{
