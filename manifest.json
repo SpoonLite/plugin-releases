@@ -186,11 +186,11 @@
 		},
 		{
 			"name": "sTobSounds.jar",
-			"plugins": ["net.runelite.client.plugins.windowsbloat.TobSoundsPlugin"],
-			"version": "1.01",
+			"plugins": ["net.runelite.client.plugins.tobsounds.TobSoundsPlugin"],
+			"version": "2.00",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sTobSounds.jar",
-			"hash": "d05ed344a2586aa7e821579e5df7b795c8cdbd82ffffa11b2ae16dda2a11b590",
-			"description": "Check SpoonLite discord for instructions"
+			"hash": "f524a35c1bf7f122e2a371ce6d61d2d2abb26cc8b1a28891139892314f48d57b",
+			"description": "Sounds for various ToB events"
 		},
 		{
 			"name": "sVm.jar",
