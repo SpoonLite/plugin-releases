@@ -165,7 +165,7 @@
 			"plugins": ["net.runelite.client.plugins.soulwars.SoulWarsPlugin"],
 			"version": "1.02",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sSoulWars.jar",
-			"hash": "37d494908b9aba2b066f8439a5533e2645a124d66197625e8419b649d22915c7",
+			"hash": "8fba28dfa712da6396a113c7884dcb3b48edfb020d3590ea7604d4e98ef05500",
 			"description": "Removes cast on teammates in Soul Wars"
 		},
 		{
