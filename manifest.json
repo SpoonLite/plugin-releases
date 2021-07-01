@@ -73,7 +73,7 @@
 			"description": "Enable this and you will never log out"
 		},
 		{
-			"name": "s'.jar",
+			"name": "sNightmare.jar",
 			"plugins": ["net.runelite.client.plugins.snightmare.NightmarePlugin"],
 			"version": "1.05",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sNightmare.jar",
