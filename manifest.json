@@ -131,9 +131,9 @@
 		{
 			"name": "sNpcHighlight.jar",
 			"plugins": ["net.runelite.client.plugins.npchighlights.NpcIndicatorsPlugins"],
-			"version": "1.06",
+			"version": "1.07",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sNpcHighlight.jar",
-			"hash": "f5c196a891d51d4859099f2078fc3c64adc10fed675652f370e49d9f90a445ef",
+			"hash": "d6793548af80a5cb966b61666d7df538c71a52966ead46aede12b8febe06af59",
 			"description": "Highlight NPCs on-screen and/or on the minimap"
 		},
 		{
@@ -279,14 +279,6 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/DiscoInferno.jar",
 			"hash": "84f97686042345ace0dfeb7edf306f0b5dcb4c97ad7e5ce2972ea89b0f35863b",
 			"description": "Burn baby burn! (Only works in Inferno)"
-		},
-		{
-			"name": "NmContribution.jar",
-			"plugins": ["net.runelite.client.plugins.nmcontrcounter.NmContrPlugin"],
-			"version": "1.00",
-			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/NmContribution.jar",
-			"hash": "97ac36bf39befa717b763ea743d7d3a174fe4b30451b3496eb294ce03f0f0410",
-			"description": "100% stolen from Steroids"
 		},
 		{
 			"name": "VmSwimShamer.jar",
