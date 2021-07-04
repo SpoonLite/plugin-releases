@@ -74,7 +74,7 @@
 		},
 		{
 			"name": "sNightmare.jar",
-			"plugins": ["net.runelite.client.plugins.snightmare.NightmarePlugin"],
+			"plugins": ["net.runelite.client.plugins.snightmare.SpoonNightmarePlugin"],
 			"version": "1.09",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sNightmare.jar",
 			"hash": "031b2a39e9d8f8d618b7f9e7ff16b3972816666d554ee717d63715f61f3c0cff",
