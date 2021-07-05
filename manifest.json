@@ -51,9 +51,9 @@
 		{
 			"name": "HydraAdditions.jar",
 			"plugins": ["net.runelite.client.plugins.hydraadditions.HydraAdditionsPlugin"],
-			"version": "1.03",
+			"version": "1.04",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/HydraAdditions.jar",
-			"hash": "e611c56573ac92f49b7daba6469ca3592bdd411829bd4eed81291924cccc2bca",
+			"hash": "6b25dabf4e0b00c53b284d094bb864f475de37a84a0443d906dec1f2bf6e507b",
 			"description": "Extra plugins for the Alchemical Hydra."
 		},
 		{
