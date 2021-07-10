@@ -75,9 +75,9 @@
 		{
 			"name": "sNightmare.jar",
 			"plugins": ["net.runelite.client.plugins.snightmare.SpoonNightmarePlugin"],
-			"version": "1.19",
+			"version": "1.20",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sNightmare.jar",
-			"hash": "7bfebdebb2f97e6d2413b77b7081d8129edd326603a136b1f39cf800f9b38d9f",
+			"hash": "76cb54e24427edd4a108d93c9a8bee45a72eff2ae04d8f8485f61ca76d0cc0f64",
 			"description": "All-in-one plugin for the Nightmare of Ashihama"
 		},
 		{
