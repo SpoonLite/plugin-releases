@@ -319,6 +319,14 @@
 		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/PvpPlayerIndicators.jar",
 		    	"hash": "c94b13296979249cabe323dd9e8df6448b844a401a8b68e699c7bc4026c14510",
 		    	"description": "Player indicators with pvp options and more highlights"
-        	}
+        	},
+		{
+			"name": "SpoonSmithing.jar",
+			"plugins": ["net.runelite.client.plugins.spoonsmithing.SpoonSmithingPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonSmithing.jar",
+			"hash": "182a0cbf042e8d84246c4349c8ebdae2611c952dc8741fe2d4eee7e4e0af1c3d",
+			"description": "Sets which items to allow you to smith"
+		}
 	]
 }
