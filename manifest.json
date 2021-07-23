@@ -327,6 +327,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonSmithing.jar",
 			"hash": "182a0cbf042e8d84246c4349c8ebdae2611c952dc8741fe2d4eee7e4e0af1c3d",
 			"description": "Sets which items to allow you to smith"
-		}
+		},
+		{
+		    	"name": "SpoonTob.jar",
+		    	"plugins": ["net.runelite.client.plugins.spoontob.SpoonTobPlugin"],
+		    	"version": "1.00",
+		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonTobPlugin.jar",
+		    	"hash": "f12d7970a42a04b728c9a236c744c74a214efe242ff9046e94fc571f5b4dedc4",
+		    	"description": "All in one Theatre of Blood plugin."
+        	}
 	]
 }
