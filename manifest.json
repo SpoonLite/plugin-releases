@@ -341,7 +341,7 @@
 		    	"plugins": ["net.runelite.client.plugins.spoonjadhelper.SpoonJadHelperPlugin"],
 		    	"version": "1.00",
 		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonJadHelper.jar",
-		    	"hash": "a4800e41cb42b1e328c16a34d3056a75804422cb3024fa83da750ce50a91a8fa",
+		    	"hash": "209648fb8a2620332f9d099833635daa92795eca21c954c2210eeaa1e6affdef",
 		    	"description": "Tick timers for Jads in Fight Caves, Inferno, and Jad Challenges"
         	}
 	]
