@@ -335,6 +335,14 @@
 		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonTob.jar",
 		    	"hash": "f12d7970a42a04b728c9a236c744c74a214efe242ff9046e94fc571f5b4dedc4",
 		    	"description": "All in one Theatre of Blood plugin."
+        	},
+		{
+		    	"name": "SpoonJadHelper.jar",
+		    	"plugins": ["net.runelite.client.plugins.spoonjadhelper.SpoonJadHelperPlugin"],
+		    	"version": "1.00",
+		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonJadHelper.jar",
+		    	"hash": "a4800e41cb42b1e328c16a34d3056a75804422cb3024fa83da750ce50a91a8fa",
+		    	"description": "Tick timers for Jads in Fight Caves, Inferno, and Jad Challenges"
         	}
 	]
 }
