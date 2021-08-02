@@ -343,6 +343,14 @@
 		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonJadHelper.jar",
 		    	"hash": "209648fb8a2620332f9d099833635daa92795eca21c954c2210eeaa1e6affdef",
 		    	"description": "Tick timers for Jads"
+        	},
+		{
+		    	"name": "SpoonKillTimers.jar",
+		    	"plugins": ["net.runelite.client.plugins.spoonkilltimers.SpoonKillTimersPlugin"],
+		    	"version": "1.00",
+		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonKillTimers.jar",
+		    	"hash": "8af38d9454b7883e215c0ba02f0538e8458f704c3e3ebbaf4b4166236210830d",
+		    	"description": "Infobox to display current time during certain boss fights"
         	}
 	]
 }
