@@ -347,7 +347,7 @@
 		{
 		    	"name": "SpoonKillTimers.jar",
 		    	"plugins": ["net.runelite.client.plugins.spoonkilltimers.SpoonKillTimersPlugin"],
-		    	"version": "1.00",
+		    	"version": "1.01",
 		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonKillTimers.jar",
 		    	"hash": "d992395de7337b886fe25dd9186fb2a0a6dfbc6019ea781887c1bfcffd048ca2",
 		    	"description": "Infobox to display current time during certain boss fights"
