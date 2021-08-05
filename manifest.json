@@ -251,9 +251,9 @@
 		{
 			"name": "SpoonTempoross.jar",
 			"plugins": ["net.runelite.client.plugins.spoontempoross.SpoonTemporossPlugin"],
-			"version": "1.01",
+			"version": "1.02",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonTempoross.jar",
-			"hash": "d8becbe2239d36de0a66b2ccfaea0b5881e934210afadc6e9d28dd4b57f5585a",
+			"hash": "0a417560c8916c627fd1bef1313479493d12edb7a45e03500c026e3fdc3bf609",
 			"description": "All in one Tempoross plugins"
 		},
 		{
@@ -347,9 +347,9 @@
 		{
 		    	"name": "SpoonKillTimers.jar",
 		    	"plugins": ["net.runelite.client.plugins.spoonkilltimers.SpoonKillTimersPlugin"],
-		    	"version": "1.01",
+		    	"version": "1.02",
 		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonKillTimers.jar",
-		    	"hash": "d992395de7337b886fe25dd9186fb2a0a6dfbc6019ea781887c1bfcffd048ca2",
+		    	"hash": "696af6f066d22048e9eb2222e4479464e0f126f73ebe499fb98a2415a70bbaea",
 		    	"description": "Infobox to display current time during certain boss fights"
         	}
 	]
