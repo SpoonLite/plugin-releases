@@ -139,9 +139,9 @@
 		{
 			"name": "sSlayer.jar",
 			"plugins": ["net.runelite.client.plugins.spoonslayer.SpSlayerPlugin"],
-			"version": "1.02",
+			"version": "1.03",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sSlayer.jar",
-			"hash": "1d4e247914824b6a9b45becdd0ebdc5f34e41d4011974dc5342b49329c883052",
+			"hash": "84670c8c33ed9c562989b83d6c6a1b7afa9c8ef17e08cc7954458f3fc254809e",
 			"description": "RuneLite Slayer with different highlight styles"
 		},
 		{
