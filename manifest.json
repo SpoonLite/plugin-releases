@@ -147,9 +147,9 @@
 		{
 			"name": "sOpponentInformation.jar",
 			"plugins": ["net.runelite.client.plugins.sopponentinfo.sOpponentInfoPlugin"],
-			"version": "1.01",
+			"version": "1.02",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sOpponentInformation.jar",
-			"hash": "5e11a6895465fcd1528ad660a796b23c8dcd10bfef2e787dacf210407b8792f9",
+			"hash": "f8fb6d6791997115978730b3f898d6b492c361e442feba9eaf6ea2ba821b18c4",
 			"description": "Show name and hitpoints information about the NPC you are fighting"
 		},
 		{
