@@ -105,6 +105,14 @@
 			"description": "Show helpful information for the Chambers of Xeric raid"
 		},
 		{
+			"name": "CoxScouterExt.jar",
+			"plugins": ["net.runelite.client.plugins.raidscouterext.RaidScouterExtPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/CoxScouterExt.jar",
+			"hash": "025a4c83f3f56386a6cb13f7e3a4df5b8227b77c7ba09166bbc3baf04686d400",
+			"description": "Additional stuff for cox scouting"
+		},
+		{
 			"name": "Sdemonicgorillas.jar",
 			"plugins": ["net.runelite.client.plugins.spoondemonicgorilla.DemonicGorillaPlugin"],
 			"version": "1.01",
