@@ -97,14 +97,6 @@
 			"description": "OPRS Boosts Information"
 		},
 		{
-			"name": "sCox.jar",
-			"plugins": ["net.runelite.client.plugins.cox.CoxPlugin"],
-			"version": "1.01",
-			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sCox.jar",
-			"hash": "ad2873d272cc78365235e08f2db6b67a490a7c19246511d5cd0c006763d18a94",
-			"description": "Show helpful information for the Chambers of Xeric raid"
-		},
-		{
 			"name": "CoxScouterExt.jar",
 			"plugins": ["net.runelite.client.plugins.raidscouterext.RaidScouterExtPlugin"],
 			"version": "1.00",
