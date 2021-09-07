@@ -351,6 +351,14 @@
 		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonKillTimers.jar",
 		    	"hash": "696af6f066d22048e9eb2222e4479464e0f126f73ebe499fb98a2415a70bbaea",
 		    	"description": "Infobox to display current time during certain boss fights"
+        	},
+		{
+		    	"name": "EntityHiderPlus.jar",
+		    	"plugins": ["net.runelite.client.plugins.entityhiderplus.EntityHiderPlusPlugin"],
+		    	"version": "1.00",
+		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/EntityHiderPlus.jar",
+		    	"hash": "140eb800794da7c39a6e9489f5d1d7621497e6abc964649877e5d4a5c72fc2de",
+		    	"description": "Entity hider that can ignore hiding specific npcs"
         	}
 	]
 }
