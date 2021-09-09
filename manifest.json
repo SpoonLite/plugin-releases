@@ -359,6 +359,14 @@
 		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/EntityHiderPlus.jar",
 		    	"hash": "140eb800794da7c39a6e9489f5d1d7621497e6abc964649877e5d4a5c72fc2de",
 		    	"description": "Entity hider that can ignore hiding specific npcs"
+        	},
+		{
+		    	"name": "SpoonNpcHighlight.jar",
+		    	"plugins": ["net.runelite.client.plugins.spoonnpchighlight.SpoonNpcHighlightPlugin"],
+		    	"version": "1.00",
+		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonNpcHighlight.jar",
+		    	"hash": "08b72e452bb8715b1bf3ede1575a19618fae1f13bdb4f55779370a25c46c79fa",
+		    	"description": "NPC Highlights with separate sections for different highlight styles"
         	}
 	]
 }
