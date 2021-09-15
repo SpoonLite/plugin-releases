@@ -211,9 +211,9 @@
 		{
 			"name": "SpoonEZScape.jar",
 			"plugins": ["net.runelite.client.plugins.spoonezscape.item.EzItemPlugin", "net.runelite.client.plugins.spoonezscape.pvm.EzPvmPlugin", "net.runelite.client.plugins.spoonezscape.skilling.EzSkillingPlugin"],
-			"version": "1.23",
+			"version": "1.24",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonEZScape.jar",
-			"hash": "caac90e33d38c59c8ba0399fb7598912fc83b76c215eb7a5404850121e54fbb6",
+			"hash": "24d29c136bb528099ea8484181f10ea4e645e7a247940e30f907624cbd98d009",
 			"description": "Ez pvm, skilling, and swap plugin"
 		},
 		{
