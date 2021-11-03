@@ -221,7 +221,7 @@
 			"plugins": ["net.runelite.client.plugins.spoongauntlet.SpoonGauntletPlugin"],
 			"version": "1.00",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonGauntlet.jar",
-			"hash": "8d9c9e1ee08452a535ebd014d9543b598f97be5ca84206d21692af8f3f7f62f9",
+			"hash": "be2f6d43ae04a4a48b12e43b0722dbba2d30786e27c61d534f90254e1a1f46ac",
 			"description": "Lots of Gauntlet shit"
 		},
 		{
@@ -346,7 +346,7 @@
 		},
 		{
 			"name": "SpoonTileIndicators.jar",
-			"plugins": ["net.runelite.client.plugins.spoontileindicators.SpoonTileIndicatorsPlugin"],
+			"plugins": ["net.runelite.client.plugins.spoontileindicators.sTileIndicatorsPlugin"],
 			"version": "1.00",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonTileIndicators.jar",
 			"hash": "0ebe0a3371227eb811a5f51169462f9a067ab5628226d99499ed3a84ab648e69",
