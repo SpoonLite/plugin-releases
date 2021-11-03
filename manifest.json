@@ -287,7 +287,7 @@
 		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonNpcHighlight.jar",
 		    	"hash": "52148a9a7af08e2f0fd4603fc86928c0505584dfbf3502edd35d1cebdf85c857",
 		    	"description": "NPC Highlights with separate sections for different highlight styles"
-        	}
+        	},
 		{
 			"name": "SpoonObjectMarkers.jar",
 			"plugins": ["net.runelite.client.plugins.spoonobjectindicators.sObjectIndicatorsPlugin"],
@@ -423,7 +423,7 @@
 		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/EntityHiderPlus.jar",
 		    	"hash": "62429c87de9f49338b102aa218c46d8b50c4d66b1c21e1b62e201429c8467227",
 		    	"description": "Entity hider that can ignore hiding specific npcs"
-        	}
+        	},
 		{
 			"name": "sScreenshot.jar",
 			"plugins": ["net.runelite.client.plugins.raidscreenshot.RaidScreenshotPlugin"],
