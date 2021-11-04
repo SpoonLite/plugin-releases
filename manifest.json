@@ -431,6 +431,22 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/sScreenshot.jar",
 			"hash": "72b7a1c3d8a3cf11c27226359b51b8ade995a858ce04fac806784c6fbe300b1f",
 			"description": "Added the option to not take death pics at vangs"
+		},
+		{
+		    	"name": "OPRS-EntityHiderPlus.jar",
+		    	"plugins": ["net.runelite.client.plugins.entityhiderplus.EntityHiderPlusPlugin"],
+		    	"version": "1.00",
+		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/OPRS-EntityHiderPlus.jar",
+		    	"hash": "4091c97645cd6dc68200ff11bbc6363103d0d64309ca61c2d7bbdbeeb970f02e",
+		    	"description": "OPRS version of Entity Hider Plus"
+        	},
+		{
+			"name": "OPRS-SpoonTob.jar",
+			"plugins": ["net.runelite.client.plugins.spoontob.SpoonTobPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/OPRS-SpoonTob.jar",
+			"hash": "6025bee98c4e5b80ec58e6a526f97edb997ea45826512c99fa36a6537be13655",
+			"description": "OPRS version of Spoon Tob"
 		}
 	]
 }
