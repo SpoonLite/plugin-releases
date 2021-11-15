@@ -83,9 +83,9 @@
 		{
 			"name": "EffectTimers.jar",
 			"plugins": ["net.runelite.client.plugins.effecttimers.EffectTimersPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/EffectTimers.jar",
-			"hash": "9cbb2549c9bf15717ee289fb51eb2cf3461558f9f0a725e6e83c085ee5ae2757",
+			"hash": "ae48a44e219c5e1a7e9a63bdb4ac2be945945d9e83bc197a60d48df4b6b80d82",
 			"description": "Effect timers on NPCs and Players"
 		},
 		{
@@ -171,9 +171,9 @@
 		{
 		    	"name": "PvpPlayerIndicators.jar",
 		    	"plugins": ["net.runelite.client.plugins.pvpplayerindicators.PvPPlayerIndicatorsPlugin"],
-		    	"version": "1.00",
+		    	"version": "1.01",
 		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/PvpPlayerIndicators.jar",
-		    	"hash": "7c16bec5862426de7697f494e2f1093ba518478414560040123f9e2232db6d08",
+		    	"hash": "db21172feeae0efe53e23bfe3b787e9bfca1b4441e8c2b3a4d28e186b3b59f0c",
 		    	"description": "Player indicators with pvp options and more highlights"
         	},
 		{
