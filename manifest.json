@@ -9,6 +9,14 @@
 			"description": "Keybind anti drag."
 		},
 		{
+			"name": "AriaTob.jar",
+			"plugins": ["net.runelite.client.plugins.ariatob.AriaTobPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/AriaTob.jar",
+			"hash": "3857b91e493bb7ad91b97f7a97975d6d802acea3110c7f25a1a5b883a17f144e",
+			"description": "Aria's Tob Additions"
+		},
+		{
 			"name": "Bingo.jar",
 			"plugins": ["net.runelite.client.plugins.bingo.BingoPlugin"],
 			"version": "1.00",
