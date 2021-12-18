@@ -91,9 +91,9 @@
 		{
 			"name": "EffectTimers.jar",
 			"plugins": ["net.runelite.client.plugins.effecttimers.EffectTimersPlugin"],
-			"version": "1.02",
+			"version": "1.03",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/EffectTimers.jar",
-			"hash": "f23d8acabeabb186aacc74f5b2958b49aa2518c21bcb56455b5b8c4b1b9c5a52",
+			"hash": "b7a84cfa009ef80c13f8e427c6f1e5ff8a6f55b5f8048e848a93410e05752602",
 			"description": "Effect timers on NPCs and Players"
 		},
 		{
@@ -219,9 +219,9 @@
 		{
 			"name": "SpoonEzSwaps.jar",
 			"plugins": ["net.runelite.client.plugins.spoonezswaps.SpoonEzSwapsPlugin"],
-			"version": "1.02",
+			"version": "1.03",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonEzSwaps.jar",
-			"hash": "71170abb1d429f7b10117debca7141393ce71907672c54b5e8a815ecd926b213",
+			"hash": "dfe855425eea3fdd3801e886ba60f65fa73a5e8112a999fe495806ad7f1d8db7",
 			"description": "A shit ton of menu entry swapping and pvm shit"
 		},
 		{
