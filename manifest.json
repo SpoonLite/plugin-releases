@@ -91,9 +91,9 @@
 		{
 			"name": "EffectTimers.jar",
 			"plugins": ["net.runelite.client.plugins.effecttimers.EffectTimersPlugin"],
-			"version": "1.01",
+			"version": "1.02",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/EffectTimers.jar",
-			"hash": "ae48a44e219c5e1a7e9a63bdb4ac2be945945d9e83bc197a60d48df4b6b80d82",
+			"hash": "f23d8acabeabb186aacc74f5b2958b49aa2518c21bcb56455b5b8c4b1b9c5a52",
 			"description": "Effect timers on NPCs and Players"
 		},
 		{
@@ -259,9 +259,9 @@
 		{
 			"name": "SpoonItemCharges.jar",
 			"plugins": ["net.runelite.client.plugins.spoonitemcharges.SpoonItemChargePlugin"],
-			"version": "1.00",
+			"version": "1.02",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonItemCharges.jar",
-			"hash": "5a85597743126fee5a308598fb506bc93b40ff11b5022575127ef4e8e82dcfc6",
+			"hash": "a2901d1c0c6da8ba2390ba985496af185b09a629af9fb30ad51190c025312781",
 			"description": "Can toggle to show rests, divines, and cox pot doses separately"
 		},
 		{
