@@ -219,9 +219,9 @@
 		{
 			"name": "SpoonEzSwaps.jar",
 			"plugins": ["net.runelite.client.plugins.spoonezswaps.SpoonEzSwapsPlugin"],
-			"version": "1.00",
+			"version": "1.02",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonEzSwaps.jar",
-			"hash": "543b991378fee4b918557accc6c67a161e02f551633dfbb1c57e53256ba7ddbf",
+			"hash": "71170abb1d429f7b10117debca7141393ce71907672c54b5e8a815ecd926b213",
 			"description": "A shit ton of menu entry swapping and pvm shit"
 		},
 		{
