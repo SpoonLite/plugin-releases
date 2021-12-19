@@ -451,9 +451,9 @@
 		{
 			"name": "OPRS-SpoonTob.jar",
 			"plugins": ["net.runelite.client.plugins.spoontob.SpoonTobPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/OPRS-SpoonTob.jar",
-			"hash": "6025bee98c4e5b80ec58e6a526f97edb997ea45826512c99fa36a6537be13655",
+			"hash": "c1e621d725a3713ae43db2536db2c5921cdce05e5802fbcde5980537b3211f3a",
 			"description": "OPRS version of Spoon Tob"
 		}
 	]
