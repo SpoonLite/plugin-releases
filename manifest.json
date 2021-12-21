@@ -131,9 +131,9 @@
 		{
 			"name": "HotkeyWalkUnder.jar",
 			"plugins": ["net.runelite.client.plugins.shiftclickwalker.ShiftClickWalkerPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/HotkeyWalkUnder.jar",
-			"hash": "1399e69267b840edc4537794b3ac3248e01fb8552c50419019e7e86a05ac73d7",
+			"hash": "e422cf4c0805e5b0cb81e094ffd10a3daa6f66363d8d667069b054024b825dfd",
 			"description": "Same shit as bluelite shift walk under, but with a hotkey."
 		},
 		{
