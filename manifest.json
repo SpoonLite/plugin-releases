@@ -281,6 +281,14 @@
 		    	"description": "Infobox to display current time during certain boss fights"
         	},
 		{
+			"name": "SpoonNex.jar",
+			"plugins": ["net.runelite.client.plugins.spoonnex.SpoonNexPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonNex.jar",
+			"hash": "ff26b5c5370c08139422512bd86aab7071c7d79888b6deb596c8e6c8fcf23a84",
+			"description": "All in one Nex plugin"
+		},
+		{
 			"name": "SpoonNightmare.jar",
 			"plugins": ["net.runelite.client.plugins.spoonnightmare.SpoonNightmarePlugin"],
 			"version": "1.00",
