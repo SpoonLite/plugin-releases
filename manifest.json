@@ -227,9 +227,9 @@
 		{
 			"name": "SpoonGauntlet.jar",
 			"plugins": ["net.runelite.client.plugins.spoongauntlet.SpoonGauntletPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonGauntlet.jar",
-			"hash": "be2f6d43ae04a4a48b12e43b0722dbba2d30786e27c61d534f90254e1a1f46ac",
+			"hash": "7d6ede79490a193b092432ed7255961f2cf639adc9ccf3efef0771c6cea79efa",
 			"description": "Lots of Gauntlet shit"
 		},
 		{
