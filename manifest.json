@@ -371,9 +371,9 @@
 		{
 		    	"name": "SpoonTob.jar",
 		    	"plugins": ["net.runelite.client.plugins.spoontob.SpoonTobPlugin"],
-		    	"version": "1.04",
+		    	"version": "1.05",
 		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonTob.jar",
-		    	"hash": "0d21de87b2663679b7b69eb212e3d8367fbd021c151476215e7a6176df0cc346",
+		    	"hash": "3b71f467abf8152257279697d26bf3fce301a307d21fc460f0fcc780b5fb0e7f",
 		    	"description": "All in one Theatre of Blood plugin."
         	},
 		{
