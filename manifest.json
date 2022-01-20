@@ -283,9 +283,9 @@
 		{
 			"name": "SpoonNex.jar",
 			"plugins": ["net.runelite.client.plugins.spoonnex.SpoonNexPlugin"],
-			"version": "1.02",
+			"version": "1.03",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonNex.jar",
-			"hash": "832540ca2ee5ee15285d47982963c8b763f47757065fbfde0835970e21831f59",
+			"hash": "e9888840bb5dc8d48899a111558e71007705360e196e5c9bd3f1d9c90fb41280",
 			"description": "All in one Nex plugin"
 		},
 		{
