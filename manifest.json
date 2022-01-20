@@ -43,9 +43,9 @@
 		{
 			"name": "CoxFloorSplits.jar",
 			"plugins": ["net.runelite.client.plugins.coxfloorsplits.CoxFloorSplitsPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/CoxFloorSplits.jar",
-			"hash": "87eabe608a2394a6b7c408c36c6d15baf519d1421b2a917b757851f9c48ea214",
+			"hash": "8248f392c6b78aac133363b7e208d53de430f4f7da9c02d40f4d10a1e2c1349c",
 			"description": "Detailed floor splits for Cox"
 		},
 		{
@@ -291,9 +291,9 @@
 		{
 			"name": "SpoonNightmare.jar",
 			"plugins": ["net.runelite.client.plugins.spoonnightmare.SpoonNightmarePlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonNightmare.jar",
-			"hash": "d3329f761577483792f6d5474be4a08b36d1b535a99b3ce3b9b1aa7870b59b12",
+			"hash": "5a820aba0cd906eecad1767715e0ffa8e7dea66b5a5f7ee92e32d1fd50636104",
 			"description": "All-in-one plugin for the Nightmare of Ashihama"
 		},
 		{
@@ -403,9 +403,9 @@
 		{
 			"name": "SpoonVorkath.jar",
 			"plugins": ["net.runelite.client.plugins.spoonvorkath.VorkathPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonVorkath.jar",
-			"hash": "3af731389bc4a01f6ce2a04b9ec4d330b19bf8f9f74018f1db5e7e0ef5a24ded",
+			"hash": "9445f258928c15d57b23d10a7d5db95ffd090fb716b3d40ae0cd68d1afe70fb0",
 			"description": "Vorkath plugin - yoinked and modified slightly."
 		},
 		{
