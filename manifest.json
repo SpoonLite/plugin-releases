@@ -35,9 +35,9 @@
 		{
 			"name": "CoxAdditions.jar",
 			"plugins": ["net.runelite.client.plugins.coxadditions.CoxAdditionsPlugin"],
-			"version": "1.03",
+			"version": "1.04",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/CoxAdditions.jar",
-			"hash": "27f77794fb01cb1369df47a6f3bd1a6bf99aaa7ebe437f53a07e74b4e1c3e655",
+			"hash": "8248f392c6b78aac133363b7e208d53de430f4f7da9c02d40f4d10a1e2c1349c",
 			"description": "Additional plugins for the Chambers of Xeric"
 		},
 		{
@@ -227,7 +227,7 @@
 		{
 			"name": "SpoonGauntlet.jar",
 			"plugins": ["net.runelite.client.plugins.spoongauntlet.SpoonGauntletPlugin"],
-			"version": "1.01",
+			"version": "1.04",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonGauntlet.jar",
 			"hash": "7d6ede79490a193b092432ed7255961f2cf639adc9ccf3efef0771c6cea79efa",
 			"description": "Lots of Gauntlet shit"
@@ -283,7 +283,7 @@
 		{
 			"name": "SpoonNex.jar",
 			"plugins": ["net.runelite.client.plugins.spoonnex.SpoonNexPlugin"],
-			"version": "1.03",
+			"version": "1.04",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonNex.jar",
 			"hash": "e9888840bb5dc8d48899a111558e71007705360e196e5c9bd3f1d9c90fb41280",
 			"description": "All in one Nex plugin"
@@ -293,7 +293,7 @@
 			"plugins": ["net.runelite.client.plugins.spoonnightmare.SpoonNightmarePlugin"],
 			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonNightmare.jar",
-			"hash": "5a820aba0cd906eecad1767715e0ffa8e7dea66b5a5f7ee92e32d1fd50636104",
+			"hash": "7a4c75460365a3bd9bd4a59fe2abd65f799d8ded1bbbceb319c9a06e4db51fb3",
 			"description": "All-in-one plugin for the Nightmare of Ashihama"
 		},
 		{
@@ -371,9 +371,9 @@
 		{
 		    	"name": "SpoonTob.jar",
 		    	"plugins": ["net.runelite.client.plugins.spoontob.SpoonTobPlugin"],
-		    	"version": "1.06",
+		    	"version": "1.04",
 		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonTob.jar",
-		    	"hash": "a79435cd3725488a952d85c2506d705f52d2e39859ede35b003cf4177a06940b",
+		    	"hash": "18ceec1330b77eb87f72a5b299c93eb2ce4c2e7131a7665708fc4f5b6a758de9",
 		    	"description": "All in one Theatre of Blood plugin."
         	},
 		{
@@ -403,7 +403,7 @@
 		{
 			"name": "SpoonVorkath.jar",
 			"plugins": ["net.runelite.client.plugins.spoonvorkath.VorkathPlugin"],
-			"version": "1.01",
+			"version": "1.04",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonVorkath.jar",
 			"hash": "9445f258928c15d57b23d10a7d5db95ffd090fb716b3d40ae0cd68d1afe70fb0",
 			"description": "Vorkath plugin - yoinked and modified slightly."
