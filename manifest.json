@@ -33,14 +33,6 @@
 			"description": "Dark core stunning MES and boosting plugins"
 		},
 		{
-			"name": "CoxAdditions.jar",
-			"plugins": ["net.runelite.client.plugins.coxadditions.CoxAdditionsPlugin"],
-			"version": "1.04",
-			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/CoxAdditions.jar",
-			"hash": "8248f392c6b78aac133363b7e208d53de430f4f7da9c02d40f4d10a1e2c1349c",
-			"description": "Additional plugins for the Chambers of Xeric"
-		},
-		{
 			"name": "CoxFloorSplits.jar",
 			"plugins": ["net.runelite.client.plugins.coxfloorsplits.CoxFloorSplitsPlugin"],
 			"version": "1.01",
@@ -215,6 +207,14 @@
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonBoosts.jar",
 			"hash": "ce8bbb5fa321edf2f7d0e39af8b1f55c37f8f3db94147466816705746596d845",
 			"description": "OPRS Boosts Information"
+		},
+		{
+			"name": "SpoonCoxAdditions.jar",
+			"plugins": ["net.runelite.client.plugins.spooncoxadditions.SpoonCoxAdditionsPlugin"],
+			"version": "1.05",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonCoxAdditions.jar",
+			"hash": "6c5bf9d123c6a54fa8cd02e61d113317de68ae7af1d704690898edc3e4004317",
+			"description": "Additional plugins for the Chambers of Xeric"
 		},
 		{
 			"name": "SpoonEzSwaps.jar",
