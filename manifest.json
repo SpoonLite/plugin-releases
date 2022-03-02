@@ -411,9 +411,9 @@
 		{
 			"name": "SpoonZalcano.jar",
 			"plugins": ["net.runelite.client.plugins.spoonzalcano.sZalcanoPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonZalcano.jar",
-			"hash": "a291d02a5db6ccd6c97639d5bb4f34cdcaea59fb556a0690aeb36fd4c213c0ac",
+			"hash": "5ecc9d304c78802fd4ac449e12a5226b3806aa6fcdb245094245bddde266d034",
 			"description": "All-in-one plugin for the Zalcano."
 		},
 		{
