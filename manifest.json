@@ -379,9 +379,9 @@
 		{
 			"name": "SpoonTobSounds.jar",
 			"plugins": ["net.runelite.client.plugins.tobsounds.TobSoundsPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonTobSounds.jar",
-			"hash": "19480444b875bac0babf8c49ab8a957f36096e6c591eef85928c92cd0175ad14",
+			"hash": "64f52cdc3d4fbc1b3d4c61dbbb9d07b4243f98fdf7e59eaa7328a49ad3ebcb46",
 			"description": "Sounds for various ToB events"
 		},
 		{
