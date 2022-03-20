@@ -177,6 +177,14 @@
 		    	"description": "Player indicators with pvp options and more highlights"
         	},
 		{
+			"name": "SocketBa.jar",
+			"plugins": ["net.runelite.client.plugins.socketba.SocketBAPlugin"],
+			"version": "1.00",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketBAPlugin.jar",
+			"hash": "c55d646f454ef4d855a992a23e8f570ffde13c2e099e470b76c14d1df6b434d0",
+			"description": "All in one Barb Assault plugin with socket functionality"
+		},
+		{
 			"name": "SoulWars.jar",
 			"plugins": ["net.runelite.client.plugins.soulwars.SoulWarsPlugin"],
 			"version": "1.00",
