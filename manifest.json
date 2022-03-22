@@ -91,9 +91,9 @@
 		{
 			"name": "GwdEssenceHider.jar",
 			"plugins": ["net.runelite.client.plugins.gwdessencehider.GwdEssenceHiderPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/GwdEssenceHider.jar",
-			"hash": "d65dd1411b175b50edc22c43d2b1ab70702e486ba481c1aa0793dd28cddf37a7",
+			"hash": "0b9038c7995ba33a183fa36f20af3f384c3fc704ebf43131885454e50cee4846",
 			"description": "Replaces the Gwd kc overlay with a better one"
 		},
 		{
