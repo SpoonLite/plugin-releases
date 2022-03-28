@@ -241,6 +241,14 @@
 			"description": "Lots of Gauntlet shit"
 		},
 		{
+			"name": "SpoonGOTR.jar",
+			"plugins": ["net.runelite.client.plugins.spoongotr.SpoonGOTRPlugin"],
+			"version": "1.02",
+			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonGOTR.jar",
+			"hash": "dcbc399831175375344386816ad2b91d22d45a066e61eb6e74cfac4692d25f8a",
+			"description": "All in one Guardians of the Rift plugin"
+		},
+		{
 			"name": "SpoonGroundMarkers.jar",
 			"plugins": ["net.runelite.client.plugins.spoongroundmarkers.sGroundMarkerPlugin"],
 			"version": "1.00",
