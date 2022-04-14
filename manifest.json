@@ -43,9 +43,9 @@
 		{
 			"name": "CoxScouterExt.jar",
 			"plugins": ["net.runelite.client.plugins.raidscouterext.RaidScouterExtPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/CoxScouterExt.jar",
-			"hash": "7a0ce75350b8a7f406ff98b2c4d6dee4dbaded0cb455a200f2ef7b5ca99643ad",
+			"hash": "b4236af8efdd52bb95e8006256f98f1b0ed74edf412c8c464f0f514706e4ff61",
 			"description": "Additional stuff for cox scouting"
 		},
 		{
