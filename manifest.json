@@ -395,9 +395,9 @@
 		{
 		    	"name": "SpoonTobStats.jar",
 		    	"plugins": ["net.runelite.client.plugins.spoontobstats.SpoonTobStatsPlugin"],
-		    	"version": "1.00",
+		    	"version": "1.01",
 		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonTobStats.jar",
-		    	"hash": "42ce195d64354c5bef99d9a919420e6fe139fca2b8243b7d72b364a2409420cf",
+		    	"hash": "2f2dd263dbe261efdec866038271ba3692e47ecac966737e850d050dfc44e394",
 		    	"description": "Timers and infoboxes for tob"
         	},
 		{
