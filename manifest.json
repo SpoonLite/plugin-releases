@@ -75,9 +75,9 @@
 		{
 			"name": "EffectTimers.jar",
 			"plugins": ["net.runelite.client.plugins.effecttimers.EffectTimersPlugin"],
-			"version": "1.03",
+			"version": "1.06",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/EffectTimers.jar",
-			"hash": "b7a84cfa009ef80c13f8e427c6f1e5ff8a6f55b5f8048e848a93410e05752602",
+			"hash": "b61d537514aa19314efafc42629fa3995eab7fbc91bb2bc4de0a2eec15d22ce2",
 			"description": "Effect timers on NPCs and Players"
 		},
 		{
