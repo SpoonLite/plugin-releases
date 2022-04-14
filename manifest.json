@@ -27,17 +27,17 @@
 		{
 			"name": "CoxFloorSplits.jar",
 			"plugins": ["net.runelite.client.plugins.coxfloorsplits.CoxFloorSplitsPlugin"],
-			"version": "1.01",
+			"version": "1.02",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/CoxFloorSplits.jar",
-			"hash": "8248f392c6b78aac133363b7e208d53de430f4f7da9c02d40f4d10a1e2c1349c",
+			"hash": "d4d4bdf86d1bcdc825ae494e6f27d3b55d90509ac7164b20d5098d58eb31c8a2",
 			"description": "Detailed floor splits for Cox"
 		},
 		{
 			"name": "CoxPrep.jar",
 			"plugins": ["net.runelite.client.plugins.coxprep.CoxPrepPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/CoxPrep.jar",
-			"hash": "f8ded0e2dc44cda0c3a2cc87b5ac2dc558f67c891fffcc0b4c790dd690a5477d",
+			"hash": "5a3450740212b3d6807f7a61d5a102e53aab0ef736e069bc9e9d6aa28fc80676",
 			"description": "Track prep shit woo yay"
 		},
 		{
@@ -51,9 +51,9 @@
 		{
 			"name": "CoxSpoonTimers.jar",
 			"plugins": ["net.runelite.client.plugins.coxspoontimers.CoxSpoonTimersPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/CoxSpoonTimers.jar",
-			"hash": "bd99233cfdac9591e605fe761e2306e939d8129872fb745fb9d3dbb3840a396a",
+			"hash": "26fae32ba2acb7872bb811365745104644dd2a347d0c86eed0c3e43063e6c404",
 			"description": "De0's Cox Timers with an overlay to show current room/phase time."
 		},
 		{
