@@ -171,9 +171,9 @@
 		{
 			"name": "SocketBa.jar",
 			"plugins": ["net.runelite.client.plugins.socketba.SocketBAPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SocketBa.jar",
-			"hash": "c55d646f454ef4d855a992a23e8f570ffde13c2e099e470b76c14d1df6b434d0",
+			"hash": "c1fbe2dc101d42c22a7c59f5584ddfd1e3645cfdbfc5fde083e58e51197c9643",
 			"description": "All in one Barb Assault plugin with socket functionality"
 		},
 		{
