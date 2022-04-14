@@ -9,14 +9,6 @@
 			"description": "Keybind anti drag."
 		},
 		{
-			"name": "AriaTob.jar",
-			"plugins": ["net.runelite.client.plugins.ariatob.AriaTobPlugin"],
-			"version": "1.00",
-			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/AriaTob.jar",
-			"hash": "3857b91e493bb7ad91b97f7a97975d6d802acea3110c7f25a1a5b883a17f144e",
-			"description": "Aria's Tob Additions"
-		},
-		{
 			"name": "Bingo.jar",
 			"plugins": ["net.runelite.client.plugins.bingo.BingoPlugin"],
 			"version": "1.00",
@@ -219,17 +211,17 @@
 		{
 			"name": "SpoonCoxAdditions.jar",
 			"plugins": ["net.runelite.client.plugins.spooncoxadditions.SpoonCoxAdditionsPlugin"],
-			"version": "1.05",
+			"version": "1.06",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonCoxAdditions.jar",
-			"hash": "6c5bf9d123c6a54fa8cd02e61d113317de68ae7af1d704690898edc3e4004317",
+			"hash": "b5b39e166271cc8220f7855c72a5ea3b4eb63486b586a00f7f370817c6a4276b",
 			"description": "Additional plugins for the Chambers of Xeric"
 		},
 		{
 			"name": "SpoonEzSwaps.jar",
 			"plugins": ["net.runelite.client.plugins.spoonezswaps.SpoonEzSwapsPlugin"],
-			"version": "1.05",
+			"version": "1.06",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonEzSwaps.jar",
-			"hash": "67612245699595fb51b8036029ccb0726b3656ae0e93878fa3ff5a3989b04032",
+			"hash": "53ead647a65563538cf6670f03e073b4eb98020511b136c116367e3b2fe9a5b7",
 			"description": "A shit ton of menu entry swapping and pvm shit"
 		},
 		{
@@ -299,7 +291,7 @@
 		{
 			"name": "SpoonNex.jar",
 			"plugins": ["net.runelite.client.plugins.spoonnex.SpoonNexPlugin"],
-			"version": "1.04",
+			"version": "1.06",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonNex.jar",
 			"hash": "e9888840bb5dc8d48899a111558e71007705360e196e5c9bd3f1d9c90fb41280",
 			"description": "All in one Nex plugin"
@@ -387,9 +379,9 @@
 		{
 		    	"name": "SpoonTob.jar",
 		    	"plugins": ["net.runelite.client.plugins.spoontob.SpoonTobPlugin"],
-		    	"version": "1.09",
+		    	"version": "1.06",
 		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonTob.jar",
-		    	"hash": "8e4cd58c1e536746b6bac113e8a476f5c79ac20a67d5435f095faa84f5e49fd7",
+		    	"hash": "fb510ace90707a3937c5d60496c5cf3d30ebb846c4a7431d05ff4a61a5bbe5b6",
 		    	"description": "All in one Theatre of Blood plugin."
         	},
 		{
