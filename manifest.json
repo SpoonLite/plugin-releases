@@ -211,17 +211,17 @@
 		{
 			"name": "SpoonCoxAdditions.jar",
 			"plugins": ["net.runelite.client.plugins.spooncoxadditions.SpoonCoxAdditionsPlugin"],
-			"version": "1.06",
+			"version": "1.07",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonCoxAdditions.jar",
-			"hash": "b5b39e166271cc8220f7855c72a5ea3b4eb63486b586a00f7f370817c6a4276b",
+			"hash": "8b9bab0e00427c56167b0ee6336edbca4b8463844b87b596dc7c9c999bd47937",
 			"description": "Additional plugins for the Chambers of Xeric"
 		},
 		{
 			"name": "SpoonEzSwaps.jar",
 			"plugins": ["net.runelite.client.plugins.spoonezswaps.SpoonEzSwapsPlugin"],
-			"version": "1.06",
+			"version": "1.07",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonEzSwaps.jar",
-			"hash": "53ead647a65563538cf6670f03e073b4eb98020511b136c116367e3b2fe9a5b7",
+			"hash": "dbca233edaa5325ce64ae48cdd5d663cfe7848a280f4d557c7101cfae98aaa8c",
 			"description": "A shit ton of menu entry swapping and pvm shit"
 		},
 		{
@@ -379,9 +379,9 @@
 		{
 		    	"name": "SpoonTob.jar",
 		    	"plugins": ["net.runelite.client.plugins.spoontob.SpoonTobPlugin"],
-		    	"version": "1.06",
+		    	"version": "1.07",
 		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonTob.jar",
-		    	"hash": "fb510ace90707a3937c5d60496c5cf3d30ebb846c4a7431d05ff4a61a5bbe5b6",
+		    	"hash": "8cb2635c131e5961660aa05a2be6419f643d6c10ca9f1c77cfc3221ed7c77c25",
 		    	"description": "All in one Theatre of Blood plugin."
         	},
 		{
