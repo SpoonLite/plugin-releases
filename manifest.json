@@ -211,9 +211,9 @@
 		{
 			"name": "SpoonCoxAdditions.jar",
 			"plugins": ["net.runelite.client.plugins.spooncoxadditions.SpoonCoxAdditionsPlugin"],
-			"version": "1.08",
+			"version": "1.09",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonCoxAdditions.jar",
-			"hash": "6959a0c1e7fb8685cb6da3c16d1c7ff4b6bedd10b2c797049ab2aa96b9c5434d",
+			"hash": "aca30846b2120155cfe37d27b436ad3946c42311b94f8b7c7350ebb78f901bd2",
 			"description": "Additional plugins for the Chambers of Xeric"
 		},
 		{
@@ -403,9 +403,9 @@
 		{
 			"name": "SpoonVM.jar",
 			"plugins": ["net.runelite.client.plugins.volcanicmine.sVMPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonVM.jar",
-			"hash": "017385bd9829d07d1c1930bf15a4f0d9e621807c58a8e7f91be653b653708caa",
+			"hash": "2af9410371e683bcad05fa2319bbad56755f41e82f72e31932f512e9f12bd03e",
 			"description": "Useful plugins for Volcanic Mine."
 		},
 		{
