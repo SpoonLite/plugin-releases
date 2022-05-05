@@ -402,7 +402,7 @@
         	},
 		{
 			"name": "SpoonVM.jar",
-			"plugins": ["net.runelite.client.plugins.volcanicmine.sVMPlugin"],
+			"plugins": ["net.runelite.client.plugins.spoonvm.SpoonVMPlugin"],
 			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonVM.jar",
 			"hash": "2af9410371e683bcad05fa2319bbad56755f41e82f72e31932f512e9f12bd03e",
