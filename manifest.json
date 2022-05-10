@@ -195,9 +195,9 @@
 		{
 			"name": "SpoonBarrows.jar",
 			"plugins": ["net.runelite.client.plugins.spoonbarrows.sBarrowsPlugin"],
-			"version": "1.00",
+			"version": "1.01",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonBarrows.jar",
-			"hash": "1683f7f6d2836d2d99d74811bf9e727108570da78d60bb386ee666e14138720a",
+			"hash": "0dc8ff8102ca9d13153ccd24a7cfb448458d96e292c7a965fe21578531098102",
 			"description": "Shows map when you are in the tunnels"
 		},
 		{
@@ -307,9 +307,9 @@
 		{
 		    	"name": "SpoonNpcHighlight.jar",
 		    	"plugins": ["net.runelite.client.plugins.spoonnpchighlight.SpoonNpcHighlightPlugin"],
-		    	"version": "1.00",
+		    	"version": "1.01",
 		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonNpcHighlight.jar",
-		    	"hash": "52148a9a7af08e2f0fd4603fc86928c0505584dfbf3502edd35d1cebdf85c857",
+		    	"hash": "dc2763843da9e7e8d816daa07716b8c3a586caa910a5db74fe6a2b8f95fab969",
 		    	"description": "NPC Highlights with separate sections for different highlight styles"
         	},
 		{
