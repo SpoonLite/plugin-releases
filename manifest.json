@@ -211,9 +211,9 @@
 		{
 			"name": "SpoonCoxAdditions.jar",
 			"plugins": ["net.runelite.client.plugins.spooncoxadditions.SpoonCoxAdditionsPlugin"],
-			"version": "1.09",
+			"version": "1.10",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonCoxAdditions.jar",
-			"hash": "aca30846b2120155cfe37d27b436ad3946c42311b94f8b7c7350ebb78f901bd2",
+			"hash": "c77717afd02fb8d910899c0c035a3a43afba40d714d25ecd4124fe3783fae766",
 			"description": "Additional plugins for the Chambers of Xeric"
 		},
 		{
@@ -379,9 +379,9 @@
 		{
 		    	"name": "SpoonTob.jar",
 		    	"plugins": ["net.runelite.client.plugins.spoontob.SpoonTobPlugin"],
-		    	"version": "1.10",
+		    	"version": "1.11",
 		    	"path": "https://github.com/SpoonLite/plugin-releases/raw/main/SpoonTob.jar",
-		    	"hash": "c02c716e3c16741503281fabbd430fd687cd838a4ceabd4a77c008f06dd3e0ad",
+		    	"hash": "d19e53f34f8c08158160d5e567a63644652b8392f9dbaa0770fd99b18dbc3cf9",
 		    	"description": "All in one Theatre of Blood plugin."
         	},
 		{
