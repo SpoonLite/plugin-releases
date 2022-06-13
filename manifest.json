@@ -99,9 +99,9 @@
 		{
 			"name": "HideUnder.jar",
 			"plugins": ["net.runelite.client.plugins.hideunder.HideUnderPlugin"],
-			"version": "1.01",
+			"version": "1.02",
 			"path": "https://github.com/SpoonLite/plugin-releases/raw/main/HideUnder.jar",
-			"hash": "f30ffec9fac8e9f4b004c854fd30b6aec9a8d852c0cebd6b0c695cc99a9f9462",
+			"hash": "1b35a17caa3b1ff834c302cf5504697a1d9b306aa49daf0541e7202848e0d006",
 			"description": "Hides your player when you stand underneath other players"
 		},
 		{
